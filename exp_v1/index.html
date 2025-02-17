@@ -131,9 +131,25 @@
         })
         .catch((err) => console.error("Failed to load images.json:", err));
 
+      function changeEnlargedItem(direction) {
+        const items = Array.from(document.querySelectorAll(".item"));
+        const current = items.findIndex((item) =>
+          item.classList.contains("enlarged"),
+        );
+        if (current !== -1) items[current].classList.remove("enlarged");
+        let next = (current + direction + items.length) % items.length;
+        items[next].classList.add("enlarged");
+        items[next].scrollIntoView({ block: "center" });
+      }
+
       document.getElementById("gallery").addEventListener("dblclick", (e) => {
         const item = e.target.closest(".item");
         if (item) item.classList.toggle("enlarged");
+      });
+
+      document.addEventListener("keydown", (e) => {
+        if (e.key === "ArrowRight") changeEnlargedItem(1);
+        if (e.key === "ArrowLeft") changeEnlargedItem(-1);
       });
     </script>
   </body>
