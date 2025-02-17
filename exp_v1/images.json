@@ -1,0 +1,1220 @@
+[
+    {
+        "steps": "20", 
+        "prompt": "golden hour sunlight filtering through trees", 
+        "blend": "0.3", 
+        "weight": "0.1", 
+        "filename": "./sweep_outputs/sweep_6_prompt_golden_hour_sunlight_filtering_through_trees_steps_20_blend_0.3_weight_0.1.png"
+    }, 
+    {
+        "steps": "30", 
+        "prompt": "dramatic spotlight on a lone subject in darkness", 
+        "blend": "0.3", 
+        "weight": "0.1", 
+        "filename": "./sweep_outputs/sweep_30_prompt_dramatic_spotlight_on_a_lone_subject_in_darkness_steps_30_blend_0.3_weight_0.1.png"
+    }, 
+    {
+        "steps": "50", 
+        "prompt": "golden hour sunlight filtering through trees", 
+        "blend": "0.3", 
+        "weight": "0.5", 
+        "filename": "./sweep_outputs/sweep_126_prompt_golden_hour_sunlight_filtering_through_trees_steps_50_blend_0.3_weight_0.5.png"
+    }, 
+    {
+        "steps": "50", 
+        "prompt": "golden hour sunlight filtering through trees", 
+        "blend": "0.3", 
+        "weight": "0.1", 
+        "filename": "./sweep_outputs/sweep_36_prompt_golden_hour_sunlight_filtering_through_trees_steps_50_blend_0.3_weight_0.1.png"
+    }, 
+    {
+        "steps": "30", 
+        "prompt": "soft ambient light through sheer curtains", 
+        "blend": "0.5", 
+        "weight": "0.1", 
+        "filename": "./sweep_outputs/sweep_155_prompt_soft_ambient_light_through_sheer_curtains_steps_30_blend_0.5_weight_0.1.png"
+    }, 
+    {
+        "steps": "20", 
+        "prompt": "overcast sky providing soft, diffused light", 
+        "blend": "0.5", 
+        "weight": "0.1", 
+        "filename": "./sweep_outputs/sweep_144_prompt_overcast_sky_providing_soft,_diffused_light_steps_20_blend_0.5_weight_0.1.png"
+    }, 
+    {
+        "steps": "30", 
+        "prompt": "morning sunrise with a warm glow over the horizon", 
+        "blend": "0.3", 
+        "weight": "0.1", 
+        "filename": "./sweep_outputs/sweep_29_prompt_morning_sunrise_with_a_warm_glow_over_the_horizon_steps_30_blend_0.3_weight_0.1.png"
+    }, 
+    {
+        "steps": "30", 
+        "prompt": "candlelight flickering in a dark room", 
+        "blend": "0.5", 
+        "weight": "0.1", 
+        "filename": "./sweep_outputs/sweep_162_prompt_candlelight_flickering_in_a_dark_room_steps_30_blend_0.5_weight_0.1.png"
+    }, 
+    {
+        "steps": "20", 
+        "prompt": "golden hour sunlight filtering through trees", 
+        "blend": "0.3", 
+        "weight": "0.3", 
+        "filename": "./sweep_outputs/sweep_51_prompt_golden_hour_sunlight_filtering_through_trees_steps_20_blend_0.3_weight_0.3.png"
+    }, 
+    {
+        "steps": "20", 
+        "prompt": "sunshine through a tropical foreground garden", 
+        "blend": "0.3", 
+        "weight": "0.5", 
+        "filename": "./sweep_outputs/sweep_92_prompt_sunshine_through_a_tropical_foreground_garden_steps_20_blend_0.3_weight_0.5.png"
+    }, 
+    {
+        "steps": "50", 
+        "prompt": "soft ambient light through sheer curtains", 
+        "blend": "0.3", 
+        "weight": "0.3", 
+        "filename": "./sweep_outputs/sweep_80_prompt_soft_ambient_light_through_sheer_curtains_steps_50_blend_0.3_weight_0.3.png"
+    }, 
+    {
+        "steps": "30", 
+        "prompt": "cool moonlight illuminating a quiet street", 
+        "blend": "0.3", 
+        "weight": "0.3", 
+        "filename": "./sweep_outputs/sweep_71_prompt_cool_moonlight_illuminating_a_quiet_street_steps_30_blend_0.3_weight_0.3.png"
+    }, 
+    {
+        "steps": "50", 
+        "prompt": "desaturated, sepia, white", 
+        "blend": "0.3", 
+        "weight": "0.5", 
+        "filename": "./sweep_outputs/sweep_123_prompt_desaturated,_sepia,_white_steps_50_blend_0.3_weight_0.5.png"
+    }, 
+    {
+        "steps": "20", 
+        "prompt": "dramatic spotlight on a lone subject in darkness", 
+        "blend": "0.3", 
+        "weight": "0.5", 
+        "filename": "./sweep_outputs/sweep_105_prompt_dramatic_spotlight_on_a_lone_subject_in_darkness_steps_20_blend_0.3_weight_0.5.png"
+    }, 
+    {
+        "steps": "50", 
+        "prompt": "natural light, advertising photo", 
+        "blend": "0.3", 
+        "weight": "0.1", 
+        "filename": "./sweep_outputs/sweep_31_prompt_natural_light,_advertising_photo_steps_50_blend_0.3_weight_0.1.png"
+    }, 
+    {
+        "steps": "30", 
+        "prompt": "fluorescent office lighting, sterile and even", 
+        "blend": "0.5", 
+        "weight": "0.1", 
+        "filename": "./sweep_outputs/sweep_163_prompt_fluorescent_office_lighting,_sterile_and_even_steps_30_blend_0.5_weight_0.1.png"
+    }, 
+    {
+        "steps": "30", 
+        "prompt": "studio lighting, high contrast", 
+        "blend": "0.3", 
+        "weight": "0.3", 
+        "filename": "./sweep_outputs/sweep_64_prompt_studio_lighting,_high_contrast_steps_30_blend_0.3_weight_0.3.png"
+    }, 
+    {
+        "steps": "20", 
+        "prompt": "fluorescent office lighting, sterile and even", 
+        "blend": "0.3", 
+        "weight": "0.5", 
+        "filename": "./sweep_outputs/sweep_103_prompt_fluorescent_office_lighting,_sterile_and_even_steps_20_blend_0.3_weight_0.5.png"
+    }, 
+    {
+        "steps": "20", 
+        "prompt": "harsh midday sun casting strong shadows", 
+        "blend": "0.3", 
+        "weight": "0.5", 
+        "filename": "./sweep_outputs/sweep_97_prompt_harsh_midday_sun_casting_strong_shadows_steps_20_blend_0.3_weight_0.5.png"
+    }, 
+    {
+        "steps": "30", 
+        "prompt": "morning sunrise with a warm glow over the horizon", 
+        "blend": "0.3", 
+        "weight": "0.5", 
+        "filename": "./sweep_outputs/sweep_119_prompt_morning_sunrise_with_a_warm_glow_over_the_horizon_steps_30_blend_0.3_weight_0.5.png"
+    }, 
+    {
+        "steps": "50", 
+        "prompt": "studio lighting, high contrast", 
+        "blend": "0.3", 
+        "weight": "0.5", 
+        "filename": "./sweep_outputs/sweep_124_prompt_studio_lighting,_high_contrast_steps_50_blend_0.3_weight_0.5.png"
+    }, 
+    {
+        "steps": "20", 
+        "prompt": "moody low-light indoors with warm lamps", 
+        "blend": "0.3", 
+        "weight": "0.1", 
+        "filename": "./sweep_outputs/sweep_8_prompt_moody_low-light_indoors_with_warm_lamps_steps_20_blend_0.3_weight_0.1.png"
+    }, 
+    {
+        "steps": "50", 
+        "prompt": "cinematic lighting with deep shadows and highlights", 
+        "blend": "0.5", 
+        "weight": "0.1", 
+        "filename": "./sweep_outputs/sweep_175_prompt_cinematic_lighting_with_deep_shadows_and_highlights_steps_50_blend_0.5_weight_0.1.png"
+    }, 
+    {
+        "steps": "30", 
+        "prompt": "cinematic lighting with deep shadows and highlights", 
+        "blend": "0.5", 
+        "weight": "0.1", 
+        "filename": "./sweep_outputs/sweep_160_prompt_cinematic_lighting_with_deep_shadows_and_highlights_steps_30_blend_0.5_weight_0.1.png"
+    }, 
+    {
+        "steps": "50", 
+        "prompt": "sunshine through a tropical foreground garden", 
+        "blend": "0.3", 
+        "weight": "0.1", 
+        "filename": "./sweep_outputs/sweep_32_prompt_sunshine_through_a_tropical_foreground_garden_steps_50_blend_0.3_weight_0.1.png"
+    }, 
+    {
+        "steps": "30", 
+        "prompt": "natural light, advertising photo", 
+        "blend": "0.3", 
+        "weight": "0.3", 
+        "filename": "./sweep_outputs/sweep_61_prompt_natural_light,_advertising_photo_steps_30_blend_0.3_weight_0.3.png"
+    }, 
+    {
+        "steps": "20", 
+        "prompt": "harsh midday sun casting strong shadows", 
+        "blend": "0.5", 
+        "weight": "0.1", 
+        "filename": "./sweep_outputs/sweep_142_prompt_harsh_midday_sun_casting_strong_shadows_steps_20_blend_0.5_weight_0.1.png"
+    }, 
+    {
+        "steps": "20", 
+        "prompt": "cool moonlight illuminating a quiet street", 
+        "blend": "0.3", 
+        "weight": "0.3", 
+        "filename": "./sweep_outputs/sweep_56_prompt_cool_moonlight_illuminating_a_quiet_street_steps_20_blend_0.3_weight_0.3.png"
+    }, 
+    {
+        "steps": "20", 
+        "prompt": "natural light, advertising photo", 
+        "blend": "0.5", 
+        "weight": "0.1", 
+        "filename": "./sweep_outputs/sweep_136_prompt_natural_light,_advertising_photo_steps_20_blend_0.5_weight_0.1.png"
+    }, 
+    {
+        "steps": "50", 
+        "prompt": "fluorescent office lighting, sterile and even", 
+        "blend": "0.3", 
+        "weight": "0.3", 
+        "filename": "./sweep_outputs/sweep_88_prompt_fluorescent_office_lighting,_sterile_and_even_steps_50_blend_0.3_weight_0.3.png"
+    }, 
+    {
+        "steps": "20", 
+        "prompt": "harsh midday sun casting strong shadows", 
+        "blend": "0.3", 
+        "weight": "0.1", 
+        "filename": "./sweep_outputs/sweep_7_prompt_harsh_midday_sun_casting_strong_shadows_steps_20_blend_0.3_weight_0.1.png"
+    }, 
+    {
+        "steps": "20", 
+        "prompt": "soft ambient light through sheer curtains", 
+        "blend": "0.3", 
+        "weight": "0.3", 
+        "filename": "./sweep_outputs/sweep_50_prompt_soft_ambient_light_through_sheer_curtains_steps_20_blend_0.3_weight_0.3.png"
+    }, 
+    {
+        "steps": "20", 
+        "prompt": "overcast sky providing soft, diffused light", 
+        "blend": "0.3", 
+        "weight": "0.1", 
+        "filename": "./sweep_outputs/sweep_9_prompt_overcast_sky_providing_soft,_diffused_light_steps_20_blend_0.3_weight_0.1.png"
+    }, 
+    {
+        "steps": "20", 
+        "prompt": "harsh midday sun casting strong shadows", 
+        "blend": "0.3", 
+        "weight": "0.3", 
+        "filename": "./sweep_outputs/sweep_52_prompt_harsh_midday_sun_casting_strong_shadows_steps_20_blend_0.3_weight_0.3.png"
+    }, 
+    {
+        "steps": "20", 
+        "prompt": "moody low-light indoors with warm lamps", 
+        "blend": "0.3", 
+        "weight": "0.5", 
+        "filename": "./sweep_outputs/sweep_98_prompt_moody_low-light_indoors_with_warm_lamps_steps_20_blend_0.3_weight_0.5.png"
+    }, 
+    {
+        "steps": "50", 
+        "prompt": "desaturated, sepia, white", 
+        "blend": "0.3", 
+        "weight": "0.3", 
+        "filename": "./sweep_outputs/sweep_78_prompt_desaturated,_sepia,_white_steps_50_blend_0.3_weight_0.3.png"
+    }, 
+    {
+        "steps": "20", 
+        "prompt": "sunshine through a tropical foreground garden", 
+        "blend": "0.3", 
+        "weight": "0.1", 
+        "filename": "./sweep_outputs/sweep_2_prompt_sunshine_through_a_tropical_foreground_garden_steps_20_blend_0.3_weight_0.1.png"
+    }, 
+    {
+        "steps": "20", 
+        "prompt": "overcast sky providing soft, diffused light", 
+        "blend": "0.3", 
+        "weight": "0.5", 
+        "filename": "./sweep_outputs/sweep_99_prompt_overcast_sky_providing_soft,_diffused_light_steps_20_blend_0.3_weight_0.5.png"
+    }, 
+    {
+        "steps": "50", 
+        "prompt": "overcast sky providing soft, diffused light", 
+        "blend": "0.3", 
+        "weight": "0.5", 
+        "filename": "./sweep_outputs/sweep_129_prompt_overcast_sky_providing_soft,_diffused_light_steps_50_blend_0.3_weight_0.5.png"
+    }, 
+    {
+        "steps": "20", 
+        "prompt": "soft ambient light through sheer curtains", 
+        "blend": "0.5", 
+        "weight": "0.1", 
+        "filename": "./sweep_outputs/sweep_140_prompt_soft_ambient_light_through_sheer_curtains_steps_20_blend_0.5_weight_0.1.png"
+    }, 
+    {
+        "steps": "20", 
+        "prompt": "sunshine through a tropical foreground garden", 
+        "blend": "0.3", 
+        "weight": "0.3", 
+        "filename": "./sweep_outputs/sweep_47_prompt_sunshine_through_a_tropical_foreground_garden_steps_20_blend_0.3_weight_0.3.png"
+    }, 
+    {
+        "steps": "20", 
+        "prompt": "fluorescent office lighting, sterile and even", 
+        "blend": "0.3", 
+        "weight": "0.3", 
+        "filename": "./sweep_outputs/sweep_58_prompt_fluorescent_office_lighting,_sterile_and_even_steps_20_blend_0.3_weight_0.3.png"
+    }, 
+    {
+        "steps": "30", 
+        "prompt": "desaturated, sepia, white", 
+        "blend": "0.3", 
+        "weight": "0.3", 
+        "filename": "./sweep_outputs/sweep_63_prompt_desaturated,_sepia,_white_steps_30_blend_0.3_weight_0.3.png"
+    }, 
+    {
+        "steps": "20", 
+        "prompt": "sunshine through a tropical foreground garden", 
+        "blend": "0.5", 
+        "weight": "0.1", 
+        "filename": "./sweep_outputs/sweep_137_prompt_sunshine_through_a_tropical_foreground_garden_steps_20_blend_0.5_weight_0.1.png"
+    }, 
+    {
+        "steps": "20", 
+        "prompt": "cinematic lighting with deep shadows and highlights", 
+        "blend": "0.3", 
+        "weight": "0.5", 
+        "filename": "./sweep_outputs/sweep_100_prompt_cinematic_lighting_with_deep_shadows_and_highlights_steps_20_blend_0.3_weight_0.5.png"
+    }, 
+    {
+        "steps": "30", 
+        "prompt": "studio lighting, high contrast", 
+        "blend": "0.5", 
+        "weight": "0.1", 
+        "filename": "./sweep_outputs/sweep_154_prompt_studio_lighting,_high_contrast_steps_30_blend_0.5_weight_0.1.png"
+    }, 
+    {
+        "steps": "20", 
+        "prompt": "morning sunrise with a warm glow over the horizon", 
+        "blend": "0.3", 
+        "weight": "0.5", 
+        "filename": "./sweep_outputs/sweep_104_prompt_morning_sunrise_with_a_warm_glow_over_the_horizon_steps_20_blend_0.3_weight_0.5.png"
+    }, 
+    {
+        "steps": "30", 
+        "prompt": "golden hour sunlight filtering through trees", 
+        "blend": "0.3", 
+        "weight": "0.1", 
+        "filename": "./sweep_outputs/sweep_21_prompt_golden_hour_sunlight_filtering_through_trees_steps_30_blend_0.3_weight_0.1.png"
+    }, 
+    {
+        "steps": "50", 
+        "prompt": "soft ambient light through sheer curtains", 
+        "blend": "0.5", 
+        "weight": "0.1", 
+        "filename": "./sweep_outputs/sweep_170_prompt_soft_ambient_light_through_sheer_curtains_steps_50_blend_0.5_weight_0.1.png"
+    }, 
+    {
+        "steps": "30", 
+        "prompt": "fluorescent office lighting, sterile and even", 
+        "blend": "0.3", 
+        "weight": "0.5", 
+        "filename": "./sweep_outputs/sweep_118_prompt_fluorescent_office_lighting,_sterile_and_even_steps_30_blend_0.3_weight_0.5.png"
+    }, 
+    {
+        "steps": "30", 
+        "prompt": "candlelight flickering in a dark room", 
+        "blend": "0.3", 
+        "weight": "0.5", 
+        "filename": "./sweep_outputs/sweep_117_prompt_candlelight_flickering_in_a_dark_room_steps_30_blend_0.3_weight_0.5.png"
+    }, 
+    {
+        "steps": "30", 
+        "prompt": "sunshine through a tropical foreground garden", 
+        "blend": "0.3", 
+        "weight": "0.5", 
+        "filename": "./sweep_outputs/sweep_107_prompt_sunshine_through_a_tropical_foreground_garden_steps_30_blend_0.3_weight_0.5.png"
+    }, 
+    {
+        "steps": "30", 
+        "prompt": "morning sunrise with a warm glow over the horizon", 
+        "blend": "0.5", 
+        "weight": "0.1", 
+        "filename": "./sweep_outputs/sweep_164_prompt_morning_sunrise_with_a_warm_glow_over_the_horizon_steps_30_blend_0.5_weight_0.1.png"
+    }, 
+    {
+        "steps": "50", 
+        "prompt": "morning sunrise with a warm glow over the horizon", 
+        "blend": "0.3", 
+        "weight": "0.1", 
+        "filename": "./sweep_outputs/sweep_44_prompt_morning_sunrise_with_a_warm_glow_over_the_horizon_steps_50_blend_0.3_weight_0.1.png"
+    }, 
+    {
+        "steps": "50", 
+        "prompt": "moody low-light indoors with warm lamps", 
+        "blend": "0.3", 
+        "weight": "0.5", 
+        "filename": "./sweep_outputs/sweep_128_prompt_moody_low-light_indoors_with_warm_lamps_steps_50_blend_0.3_weight_0.5.png"
+    }, 
+    {
+        "steps": "50", 
+        "prompt": "harsh midday sun casting strong shadows", 
+        "blend": "0.3", 
+        "weight": "0.1", 
+        "filename": "./sweep_outputs/sweep_37_prompt_harsh_midday_sun_casting_strong_shadows_steps_50_blend_0.3_weight_0.1.png"
+    }, 
+    {
+        "steps": "20", 
+        "prompt": "cinematic lighting with deep shadows and highlights", 
+        "blend": "0.3", 
+        "weight": "0.3", 
+        "filename": "./sweep_outputs/sweep_55_prompt_cinematic_lighting_with_deep_shadows_and_highlights_steps_20_blend_0.3_weight_0.3.png"
+    }, 
+    {
+        "steps": "30", 
+        "prompt": "studio lighting, high contrast", 
+        "blend": "0.3", 
+        "weight": "0.1", 
+        "filename": "./sweep_outputs/sweep_19_prompt_studio_lighting,_high_contrast_steps_30_blend_0.3_weight_0.1.png"
+    }, 
+    {
+        "steps": "30", 
+        "prompt": "dramatic spotlight on a lone subject in darkness", 
+        "blend": "0.3", 
+        "weight": "0.3", 
+        "filename": "./sweep_outputs/sweep_75_prompt_dramatic_spotlight_on_a_lone_subject_in_darkness_steps_30_blend_0.3_weight_0.3.png"
+    }, 
+    {
+        "steps": "50", 
+        "prompt": "dramatic spotlight on a lone subject in darkness", 
+        "blend": "0.3", 
+        "weight": "0.5", 
+        "filename": "./sweep_outputs/sweep_135_prompt_dramatic_spotlight_on_a_lone_subject_in_darkness_steps_50_blend_0.3_weight_0.5.png"
+    }, 
+    {
+        "steps": "50", 
+        "prompt": "harsh midday sun casting strong shadows", 
+        "blend": "0.3", 
+        "weight": "0.3", 
+        "filename": "./sweep_outputs/sweep_82_prompt_harsh_midday_sun_casting_strong_shadows_steps_50_blend_0.3_weight_0.3.png"
+    }, 
+    {
+        "steps": "20", 
+        "prompt": "morning sunrise with a warm glow over the horizon", 
+        "blend": "0.3", 
+        "weight": "0.1", 
+        "filename": "./sweep_outputs/sweep_14_prompt_morning_sunrise_with_a_warm_glow_over_the_horizon_steps_20_blend_0.3_weight_0.1.png"
+    }, 
+    {
+        "steps": "50", 
+        "prompt": "dramatic spotlight on a lone subject in darkness", 
+        "blend": "0.3", 
+        "weight": "0.3", 
+        "filename": "./sweep_outputs/sweep_90_prompt_dramatic_spotlight_on_a_lone_subject_in_darkness_steps_50_blend_0.3_weight_0.3.png"
+    }, 
+    {
+        "steps": "50", 
+        "prompt": "studio lighting, high contrast", 
+        "blend": "0.3", 
+        "weight": "0.3", 
+        "filename": "./sweep_outputs/sweep_79_prompt_studio_lighting,_high_contrast_steps_50_blend_0.3_weight_0.3.png"
+    }, 
+    {
+        "steps": "50", 
+        "prompt": "candlelight flickering in a dark room", 
+        "blend": "0.3", 
+        "weight": "0.3", 
+        "filename": "./sweep_outputs/sweep_87_prompt_candlelight_flickering_in_a_dark_room_steps_50_blend_0.3_weight_0.3.png"
+    }, 
+    {
+        "steps": "20", 
+        "prompt": "cool moonlight illuminating a quiet street", 
+        "blend": "0.3", 
+        "weight": "0.5", 
+        "filename": "./sweep_outputs/sweep_101_prompt_cool_moonlight_illuminating_a_quiet_street_steps_20_blend_0.3_weight_0.5.png"
+    }, 
+    {
+        "steps": "30", 
+        "prompt": "desaturated, sepia, white", 
+        "blend": "0.3", 
+        "weight": "0.1", 
+        "filename": "./sweep_outputs/sweep_18_prompt_desaturated,_sepia,_white_steps_30_blend_0.3_weight_0.1.png"
+    }, 
+    {
+        "steps": "30", 
+        "prompt": "soft ambient light through sheer curtains", 
+        "blend": "0.3", 
+        "weight": "0.1", 
+        "filename": "./sweep_outputs/sweep_20_prompt_soft_ambient_light_through_sheer_curtains_steps_30_blend_0.3_weight_0.1.png"
+    }, 
+    {
+        "steps": "50", 
+        "prompt": "cinematic lighting with deep shadows and highlights", 
+        "blend": "0.3", 
+        "weight": "0.3", 
+        "filename": "./sweep_outputs/sweep_85_prompt_cinematic_lighting_with_deep_shadows_and_highlights_steps_50_blend_0.3_weight_0.3.png"
+    }, 
+    {
+        "steps": "50", 
+        "prompt": "cool moonlight illuminating a quiet street", 
+        "blend": "0.3", 
+        "weight": "0.1", 
+        "filename": "./sweep_outputs/sweep_41_prompt_cool_moonlight_illuminating_a_quiet_street_steps_50_blend_0.3_weight_0.1.png"
+    }, 
+    {
+        "steps": "30", 
+        "prompt": "candlelight flickering in a dark room", 
+        "blend": "0.3", 
+        "weight": "0.3", 
+        "filename": "./sweep_outputs/sweep_72_prompt_candlelight_flickering_in_a_dark_room_steps_30_blend_0.3_weight_0.3.png"
+    }, 
+    {
+        "steps": "50", 
+        "prompt": "moody low-light indoors with warm lamps", 
+        "blend": "0.3", 
+        "weight": "0.1", 
+        "filename": "./sweep_outputs/sweep_38_prompt_moody_low-light_indoors_with_warm_lamps_steps_50_blend_0.3_weight_0.1.png"
+    }, 
+    {
+        "steps": "50", 
+        "prompt": "soft ambient light through sheer curtains", 
+        "blend": "0.3", 
+        "weight": "0.1", 
+        "filename": "./sweep_outputs/sweep_35_prompt_soft_ambient_light_through_sheer_curtains_steps_50_blend_0.3_weight_0.1.png"
+    }, 
+    {
+        "steps": "50", 
+        "prompt": "harsh midday sun casting strong shadows", 
+        "blend": "0.3", 
+        "weight": "0.5", 
+        "filename": "./sweep_outputs/sweep_127_prompt_harsh_midday_sun_casting_strong_shadows_steps_50_blend_0.3_weight_0.5.png"
+    }, 
+    {
+        "steps": "30", 
+        "prompt": "cool moonlight illuminating a quiet street", 
+        "blend": "0.3", 
+        "weight": "0.1", 
+        "filename": "./sweep_outputs/sweep_26_prompt_cool_moonlight_illuminating_a_quiet_street_steps_30_blend_0.3_weight_0.1.png"
+    }, 
+    {
+        "steps": "30", 
+        "prompt": "moody low-light indoors with warm lamps", 
+        "blend": "0.3", 
+        "weight": "0.1", 
+        "filename": "./sweep_outputs/sweep_23_prompt_moody_low-light_indoors_with_warm_lamps_steps_30_blend_0.3_weight_0.1.png"
+    }, 
+    {
+        "steps": "20", 
+        "prompt": "golden hour sunlight filtering through trees", 
+        "blend": "0.3", 
+        "weight": "0.5", 
+        "filename": "./sweep_outputs/sweep_96_prompt_golden_hour_sunlight_filtering_through_trees_steps_20_blend_0.3_weight_0.5.png"
+    }, 
+    {
+        "steps": "50", 
+        "prompt": "natural light, advertising photo", 
+        "blend": "0.3", 
+        "weight": "0.5", 
+        "filename": "./sweep_outputs/sweep_121_prompt_natural_light,_advertising_photo_steps_50_blend_0.3_weight_0.5.png"
+    }, 
+    {
+        "steps": "50", 
+        "prompt": "fluorescent office lighting, sterile and even", 
+        "blend": "0.5", 
+        "weight": "0.1", 
+        "filename": "./sweep_outputs/sweep_178_prompt_fluorescent_office_lighting,_sterile_and_even_steps_50_blend_0.5_weight_0.1.png"
+    }, 
+    {
+        "steps": "50", 
+        "prompt": "soft ambient light through sheer curtains", 
+        "blend": "0.3", 
+        "weight": "0.5", 
+        "filename": "./sweep_outputs/sweep_125_prompt_soft_ambient_light_through_sheer_curtains_steps_50_blend_0.3_weight_0.5.png"
+    }, 
+    {
+        "steps": "30", 
+        "prompt": "morning sunrise with a warm glow over the horizon", 
+        "blend": "0.3", 
+        "weight": "0.3", 
+        "filename": "./sweep_outputs/sweep_74_prompt_morning_sunrise_with_a_warm_glow_over_the_horizon_steps_30_blend_0.3_weight_0.3.png"
+    }, 
+    {
+        "steps": "30", 
+        "prompt": "golden hour sunlight filtering through trees", 
+        "blend": "0.5", 
+        "weight": "0.1", 
+        "filename": "./sweep_outputs/sweep_156_prompt_golden_hour_sunlight_filtering_through_trees_steps_30_blend_0.5_weight_0.1.png"
+    }, 
+    {
+        "steps": "30", 
+        "prompt": "overcast sky providing soft, diffused light", 
+        "blend": "0.5", 
+        "weight": "0.1", 
+        "filename": "./sweep_outputs/sweep_159_prompt_overcast_sky_providing_soft,_diffused_light_steps_30_blend_0.5_weight_0.1.png"
+    }, 
+    {
+        "steps": "30", 
+        "prompt": "overcast sky providing soft, diffused light", 
+        "blend": "0.3", 
+        "weight": "0.3", 
+        "filename": "./sweep_outputs/sweep_69_prompt_overcast_sky_providing_soft,_diffused_light_steps_30_blend_0.3_weight_0.3.png"
+    }, 
+    {
+        "steps": "50", 
+        "prompt": "cool moonlight illuminating a quiet street", 
+        "blend": "0.5", 
+        "weight": "0.1", 
+        "filename": "./sweep_outputs/sweep_176_prompt_cool_moonlight_illuminating_a_quiet_street_steps_50_blend_0.5_weight_0.1.png"
+    }, 
+    {
+        "steps": "30", 
+        "prompt": "cinematic lighting with deep shadows and highlights", 
+        "blend": "0.3", 
+        "weight": "0.5", 
+        "filename": "./sweep_outputs/sweep_115_prompt_cinematic_lighting_with_deep_shadows_and_highlights_steps_30_blend_0.3_weight_0.5.png"
+    }, 
+    {
+        "steps": "30", 
+        "prompt": "sunshine through a tropical foreground garden", 
+        "blend": "0.5", 
+        "weight": "0.1", 
+        "filename": "./sweep_outputs/sweep_152_prompt_sunshine_through_a_tropical_foreground_garden_steps_30_blend_0.5_weight_0.1.png"
+    }, 
+    {
+        "steps": "30", 
+        "prompt": "moody low-light indoors with warm lamps", 
+        "blend": "0.3", 
+        "weight": "0.5", 
+        "filename": "./sweep_outputs/sweep_113_prompt_moody_low-light_indoors_with_warm_lamps_steps_30_blend_0.3_weight_0.5.png"
+    }, 
+    {
+        "steps": "30", 
+        "prompt": "soft ambient light through sheer curtains", 
+        "blend": "0.3", 
+        "weight": "0.5", 
+        "filename": "./sweep_outputs/sweep_110_prompt_soft_ambient_light_through_sheer_curtains_steps_30_blend_0.3_weight_0.5.png"
+    }, 
+    {
+        "steps": "50", 
+        "prompt": "studio lighting, high contrast", 
+        "blend": "0.3", 
+        "weight": "0.1", 
+        "filename": "./sweep_outputs/sweep_34_prompt_studio_lighting,_high_contrast_steps_50_blend_0.3_weight_0.1.png"
+    }, 
+    {
+        "steps": "20", 
+        "prompt": "cool moonlight illuminating a quiet street", 
+        "blend": "0.3", 
+        "weight": "0.1", 
+        "filename": "./sweep_outputs/sweep_11_prompt_cool_moonlight_illuminating_a_quiet_street_steps_20_blend_0.3_weight_0.1.png"
+    }, 
+    {
+        "steps": "30", 
+        "prompt": "fluorescent office lighting, sterile and even", 
+        "blend": "0.3", 
+        "weight": "0.3", 
+        "filename": "./sweep_outputs/sweep_73_prompt_fluorescent_office_lighting,_sterile_and_even_steps_30_blend_0.3_weight_0.3.png"
+    }, 
+    {
+        "steps": "20", 
+        "prompt": "moody low-light indoors with warm lamps", 
+        "blend": "0.3", 
+        "weight": "0.3", 
+        "filename": "./sweep_outputs/sweep_53_prompt_moody_low-light_indoors_with_warm_lamps_steps_20_blend_0.3_weight_0.3.png"
+    }, 
+    {
+        "steps": "20", 
+        "prompt": "overcast sky providing soft, diffused light", 
+        "blend": "0.3", 
+        "weight": "0.3", 
+        "filename": "./sweep_outputs/sweep_54_prompt_overcast_sky_providing_soft,_diffused_light_steps_20_blend_0.3_weight_0.3.png"
+    }, 
+    {
+        "steps": "30", 
+        "prompt": "natural light, advertising photo", 
+        "blend": "0.3", 
+        "weight": "0.5", 
+        "filename": "./sweep_outputs/sweep_106_prompt_natural_light,_advertising_photo_steps_30_blend_0.3_weight_0.5.png"
+    }, 
+    {
+        "steps": "50", 
+        "prompt": "desaturated, sepia, white", 
+        "blend": "0.3", 
+        "weight": "0.1", 
+        "filename": "./sweep_outputs/sweep_33_prompt_desaturated,_sepia,_white_steps_50_blend_0.3_weight_0.1.png"
+    }, 
+    {
+        "steps": "30", 
+        "prompt": "dramatic spotlight on a lone subject in darkness", 
+        "blend": "0.5", 
+        "weight": "0.1", 
+        "filename": "./sweep_outputs/sweep_165_prompt_dramatic_spotlight_on_a_lone_subject_in_darkness_steps_30_blend_0.5_weight_0.1.png"
+    }, 
+    {
+        "steps": "30", 
+        "prompt": "moody low-light indoors with warm lamps", 
+        "blend": "0.5", 
+        "weight": "0.1", 
+        "filename": "./sweep_outputs/sweep_158_prompt_moody_low-light_indoors_with_warm_lamps_steps_30_blend_0.5_weight_0.1.png"
+    }, 
+    {
+        "steps": "20", 
+        "prompt": "studio lighting, high contrast", 
+        "blend": "0.5", 
+        "weight": "0.1", 
+        "filename": "./sweep_outputs/sweep_139_prompt_studio_lighting,_high_contrast_steps_20_blend_0.5_weight_0.1.png"
+    }, 
+    {
+        "steps": "50", 
+        "prompt": "morning sunrise with a warm glow over the horizon", 
+        "blend": "0.3", 
+        "weight": "0.5", 
+        "filename": "./sweep_outputs/sweep_134_prompt_morning_sunrise_with_a_warm_glow_over_the_horizon_steps_50_blend_0.3_weight_0.5.png"
+    }, 
+    {
+        "steps": "20", 
+        "prompt": "desaturated, sepia, white", 
+        "blend": "0.3", 
+        "weight": "0.3", 
+        "filename": "./sweep_outputs/sweep_48_prompt_desaturated,_sepia,_white_steps_20_blend_0.3_weight_0.3.png"
+    }, 
+    {
+        "steps": "20", 
+        "prompt": "natural light, advertising photo", 
+        "blend": "0.3", 
+        "weight": "0.5", 
+        "filename": "./sweep_outputs/sweep_91_prompt_natural_light,_advertising_photo_steps_20_blend_0.3_weight_0.5.png"
+    }, 
+    {
+        "steps": "30", 
+        "prompt": "moody low-light indoors with warm lamps", 
+        "blend": "0.3", 
+        "weight": "0.3", 
+        "filename": "./sweep_outputs/sweep_68_prompt_moody_low-light_indoors_with_warm_lamps_steps_30_blend_0.3_weight_0.3.png"
+    }, 
+    {
+        "steps": "20", 
+        "prompt": "fluorescent office lighting, sterile and even", 
+        "blend": "0.3", 
+        "weight": "0.1", 
+        "filename": "./sweep_outputs/sweep_13_prompt_fluorescent_office_lighting,_sterile_and_even_steps_20_blend_0.3_weight_0.1.png"
+    }, 
+    {
+        "steps": "20", 
+        "prompt": "desaturated, sepia, white", 
+        "blend": "0.5", 
+        "weight": "0.1", 
+        "filename": "./sweep_outputs/sweep_138_prompt_desaturated,_sepia,_white_steps_20_blend_0.5_weight_0.1.png"
+    }, 
+    {
+        "steps": "50", 
+        "prompt": "candlelight flickering in a dark room", 
+        "blend": "0.3", 
+        "weight": "0.1", 
+        "filename": "./sweep_outputs/sweep_42_prompt_candlelight_flickering_in_a_dark_room_steps_50_blend_0.3_weight_0.1.png"
+    }, 
+    {
+        "steps": "20", 
+        "prompt": "natural light, advertising photo", 
+        "blend": "0.3", 
+        "weight": "0.1", 
+        "filename": "./sweep_outputs/sweep_1_prompt_natural_light,_advertising_photo_steps_20_blend_0.3_weight_0.1.png"
+    }, 
+    {
+        "steps": "50", 
+        "prompt": "sunshine through a tropical foreground garden", 
+        "blend": "0.3", 
+        "weight": "0.5", 
+        "filename": "./sweep_outputs/sweep_122_prompt_sunshine_through_a_tropical_foreground_garden_steps_50_blend_0.3_weight_0.5.png"
+    }, 
+    {
+        "steps": "20", 
+        "prompt": "studio lighting, high contrast", 
+        "blend": "0.3", 
+        "weight": "0.1", 
+        "filename": "./sweep_outputs/sweep_4_prompt_studio_lighting,_high_contrast_steps_20_blend_0.3_weight_0.1.png"
+    }, 
+    {
+        "steps": "20", 
+        "prompt": "candlelight flickering in a dark room", 
+        "blend": "0.3", 
+        "weight": "0.3", 
+        "filename": "./sweep_outputs/sweep_57_prompt_candlelight_flickering_in_a_dark_room_steps_20_blend_0.3_weight_0.3.png"
+    }, 
+    {
+        "steps": "50", 
+        "prompt": "overcast sky providing soft, diffused light", 
+        "blend": "0.5", 
+        "weight": "0.1", 
+        "filename": "./sweep_outputs/sweep_174_prompt_overcast_sky_providing_soft,_diffused_light_steps_50_blend_0.5_weight_0.1.png"
+    }, 
+    {
+        "steps": "50", 
+        "prompt": "fluorescent office lighting, sterile and even", 
+        "blend": "0.3", 
+        "weight": "0.1", 
+        "filename": "./sweep_outputs/sweep_43_prompt_fluorescent_office_lighting,_sterile_and_even_steps_50_blend_0.3_weight_0.1.png"
+    }, 
+    {
+        "steps": "20", 
+        "prompt": "studio lighting, high contrast", 
+        "blend": "0.3", 
+        "weight": "0.5", 
+        "filename": "./sweep_outputs/sweep_94_prompt_studio_lighting,_high_contrast_steps_20_blend_0.3_weight_0.5.png"
+    }, 
+    {
+        "steps": "50", 
+        "prompt": "cinematic lighting with deep shadows and highlights", 
+        "blend": "0.3", 
+        "weight": "0.5", 
+        "filename": "./sweep_outputs/sweep_130_prompt_cinematic_lighting_with_deep_shadows_and_highlights_steps_50_blend_0.3_weight_0.5.png"
+    }, 
+    {
+        "steps": "50", 
+        "prompt": "natural light, advertising photo", 
+        "blend": "0.3", 
+        "weight": "0.3", 
+        "filename": "./sweep_outputs/sweep_76_prompt_natural_light,_advertising_photo_steps_50_blend_0.3_weight_0.3.png"
+    }, 
+    {
+        "steps": "50", 
+        "prompt": "candlelight flickering in a dark room", 
+        "blend": "0.3", 
+        "weight": "0.5", 
+        "filename": "./sweep_outputs/sweep_132_prompt_candlelight_flickering_in_a_dark_room_steps_50_blend_0.3_weight_0.5.png"
+    }, 
+    {
+        "steps": "30", 
+        "prompt": "harsh midday sun casting strong shadows", 
+        "blend": "0.3", 
+        "weight": "0.3", 
+        "filename": "./sweep_outputs/sweep_67_prompt_harsh_midday_sun_casting_strong_shadows_steps_30_blend_0.3_weight_0.3.png"
+    }, 
+    {
+        "steps": "20", 
+        "prompt": "desaturated, sepia, white", 
+        "blend": "0.3", 
+        "weight": "0.5", 
+        "filename": "./sweep_outputs/sweep_93_prompt_desaturated,_sepia,_white_steps_20_blend_0.3_weight_0.5.png"
+    }, 
+    {
+        "steps": "50", 
+        "prompt": "overcast sky providing soft, diffused light", 
+        "blend": "0.3", 
+        "weight": "0.3", 
+        "filename": "./sweep_outputs/sweep_84_prompt_overcast_sky_providing_soft,_diffused_light_steps_50_blend_0.3_weight_0.3.png"
+    }, 
+    {
+        "steps": "20", 
+        "prompt": "moody low-light indoors with warm lamps", 
+        "blend": "0.5", 
+        "weight": "0.1", 
+        "filename": "./sweep_outputs/sweep_143_prompt_moody_low-light_indoors_with_warm_lamps_steps_20_blend_0.5_weight_0.1.png"
+    }, 
+    {
+        "steps": "30", 
+        "prompt": "harsh midday sun casting strong shadows", 
+        "blend": "0.5", 
+        "weight": "0.1", 
+        "filename": "./sweep_outputs/sweep_157_prompt_harsh_midday_sun_casting_strong_shadows_steps_30_blend_0.5_weight_0.1.png"
+    }, 
+    {
+        "steps": "20", 
+        "prompt": "fluorescent office lighting, sterile and even", 
+        "blend": "0.5", 
+        "weight": "0.1", 
+        "filename": "./sweep_outputs/sweep_148_prompt_fluorescent_office_lighting,_sterile_and_even_steps_20_blend_0.5_weight_0.1.png"
+    }, 
+    {
+        "steps": "50", 
+        "prompt": "desaturated, sepia, white", 
+        "blend": "0.5", 
+        "weight": "0.1", 
+        "filename": "./sweep_outputs/sweep_168_prompt_desaturated,_sepia,_white_steps_50_blend_0.5_weight_0.1.png"
+    }, 
+    {
+        "steps": "50", 
+        "prompt": "golden hour sunlight filtering through trees", 
+        "blend": "0.5", 
+        "weight": "0.1", 
+        "filename": "./sweep_outputs/sweep_171_prompt_golden_hour_sunlight_filtering_through_trees_steps_50_blend_0.5_weight_0.1.png"
+    }, 
+    {
+        "steps": "20", 
+        "prompt": "desaturated, sepia, white", 
+        "blend": "0.3", 
+        "weight": "0.1", 
+        "filename": "./sweep_outputs/sweep_3_prompt_desaturated,_sepia,_white_steps_20_blend_0.3_weight_0.1.png"
+    }, 
+    {
+        "steps": "20", 
+        "prompt": "candlelight flickering in a dark room", 
+        "blend": "0.3", 
+        "weight": "0.5", 
+        "filename": "./sweep_outputs/sweep_102_prompt_candlelight_flickering_in_a_dark_room_steps_20_blend_0.3_weight_0.5.png"
+    }, 
+    {
+        "steps": "30", 
+        "prompt": "cinematic lighting with deep shadows and highlights", 
+        "blend": "0.3", 
+        "weight": "0.3", 
+        "filename": "./sweep_outputs/sweep_70_prompt_cinematic_lighting_with_deep_shadows_and_highlights_steps_30_blend_0.3_weight_0.3.png"
+    }, 
+    {
+        "steps": "50", 
+        "prompt": "cool moonlight illuminating a quiet street", 
+        "blend": "0.3", 
+        "weight": "0.3", 
+        "filename": "./sweep_outputs/sweep_86_prompt_cool_moonlight_illuminating_a_quiet_street_steps_50_blend_0.3_weight_0.3.png"
+    }, 
+    {
+        "steps": "50", 
+        "prompt": "cinematic lighting with deep shadows and highlights", 
+        "blend": "0.3", 
+        "weight": "0.1", 
+        "filename": "./sweep_outputs/sweep_40_prompt_cinematic_lighting_with_deep_shadows_and_highlights_steps_50_blend_0.3_weight_0.1.png"
+    }, 
+    {
+        "steps": "50", 
+        "prompt": "overcast sky providing soft, diffused light", 
+        "blend": "0.3", 
+        "weight": "0.1", 
+        "filename": "./sweep_outputs/sweep_39_prompt_overcast_sky_providing_soft,_diffused_light_steps_50_blend_0.3_weight_0.1.png"
+    }, 
+    {
+        "steps": "20", 
+        "prompt": "candlelight flickering in a dark room", 
+        "blend": "0.5", 
+        "weight": "0.1", 
+        "filename": "./sweep_outputs/sweep_147_prompt_candlelight_flickering_in_a_dark_room_steps_20_blend_0.5_weight_0.1.png"
+    }, 
+    {
+        "steps": "50", 
+        "prompt": "harsh midday sun casting strong shadows", 
+        "blend": "0.5", 
+        "weight": "0.1", 
+        "filename": "./sweep_outputs/sweep_172_prompt_harsh_midday_sun_casting_strong_shadows_steps_50_blend_0.5_weight_0.1.png"
+    }, 
+    {
+        "steps": "30", 
+        "prompt": "harsh midday sun casting strong shadows", 
+        "blend": "0.3", 
+        "weight": "0.1", 
+        "filename": "./sweep_outputs/sweep_22_prompt_harsh_midday_sun_casting_strong_shadows_steps_30_blend_0.3_weight_0.1.png"
+    }, 
+    {
+        "steps": "30", 
+        "prompt": "cool moonlight illuminating a quiet street", 
+        "blend": "0.3", 
+        "weight": "0.5", 
+        "filename": "./sweep_outputs/sweep_116_prompt_cool_moonlight_illuminating_a_quiet_street_steps_30_blend_0.3_weight_0.5.png"
+    }, 
+    {
+        "steps": "20", 
+        "prompt": "soft ambient light through sheer curtains", 
+        "blend": "0.3", 
+        "weight": "0.1", 
+        "filename": "./sweep_outputs/sweep_5_prompt_soft_ambient_light_through_sheer_curtains_steps_20_blend_0.3_weight_0.1.png"
+    }, 
+    {
+        "steps": "30", 
+        "prompt": "studio lighting, high contrast", 
+        "blend": "0.3", 
+        "weight": "0.5", 
+        "filename": "./sweep_outputs/sweep_109_prompt_studio_lighting,_high_contrast_steps_30_blend_0.3_weight_0.5.png"
+    }, 
+    {
+        "steps": "30", 
+        "prompt": "sunshine through a tropical foreground garden", 
+        "blend": "0.3", 
+        "weight": "0.3", 
+        "filename": "./sweep_outputs/sweep_62_prompt_sunshine_through_a_tropical_foreground_garden_steps_30_blend_0.3_weight_0.3.png"
+    }, 
+    {
+        "steps": "50", 
+        "prompt": "morning sunrise with a warm glow over the horizon", 
+        "blend": "0.3", 
+        "weight": "0.3", 
+        "filename": "./sweep_outputs/sweep_89_prompt_morning_sunrise_with_a_warm_glow_over_the_horizon_steps_50_blend_0.3_weight_0.3.png"
+    }, 
+    {
+        "steps": "50", 
+        "prompt": "natural light, advertising photo", 
+        "blend": "0.5", 
+        "weight": "0.1", 
+        "filename": "./sweep_outputs/sweep_166_prompt_natural_light,_advertising_photo_steps_50_blend_0.5_weight_0.1.png"
+    }, 
+    {
+        "steps": "30", 
+        "prompt": "cinematic lighting with deep shadows and highlights", 
+        "blend": "0.3", 
+        "weight": "0.1", 
+        "filename": "./sweep_outputs/sweep_25_prompt_cinematic_lighting_with_deep_shadows_and_highlights_steps_30_blend_0.3_weight_0.1.png"
+    }, 
+    {
+        "steps": "20", 
+        "prompt": "dramatic spotlight on a lone subject in darkness", 
+        "blend": "0.3", 
+        "weight": "0.1", 
+        "filename": "./sweep_outputs/sweep_15_prompt_dramatic_spotlight_on_a_lone_subject_in_darkness_steps_20_blend_0.3_weight_0.1.png"
+    }, 
+    {
+        "steps": "30", 
+        "prompt": "harsh midday sun casting strong shadows", 
+        "blend": "0.3", 
+        "weight": "0.5", 
+        "filename": "./sweep_outputs/sweep_112_prompt_harsh_midday_sun_casting_strong_shadows_steps_30_blend_0.3_weight_0.5.png"
+    }, 
+    {
+        "steps": "50", 
+        "prompt": "candlelight flickering in a dark room", 
+        "blend": "0.5", 
+        "weight": "0.1", 
+        "filename": "./sweep_outputs/sweep_177_prompt_candlelight_flickering_in_a_dark_room_steps_50_blend_0.5_weight_0.1.png"
+    }, 
+    {
+        "steps": "20", 
+        "prompt": "candlelight flickering in a dark room", 
+        "blend": "0.3", 
+        "weight": "0.1", 
+        "filename": "./sweep_outputs/sweep_12_prompt_candlelight_flickering_in_a_dark_room_steps_20_blend_0.3_weight_0.1.png"
+    }, 
+    {
+        "steps": "30", 
+        "prompt": "sunshine through a tropical foreground garden", 
+        "blend": "0.3", 
+        "weight": "0.1", 
+        "filename": "./sweep_outputs/sweep_17_prompt_sunshine_through_a_tropical_foreground_garden_steps_30_blend_0.3_weight_0.1.png"
+    }, 
+    {
+        "steps": "50", 
+        "prompt": "fluorescent office lighting, sterile and even", 
+        "blend": "0.3", 
+        "weight": "0.5", 
+        "filename": "./sweep_outputs/sweep_133_prompt_fluorescent_office_lighting,_sterile_and_even_steps_50_blend_0.3_weight_0.5.png"
+    }, 
+    {
+        "steps": "20", 
+        "prompt": "morning sunrise with a warm glow over the horizon", 
+        "blend": "0.3", 
+        "weight": "0.3", 
+        "filename": "./sweep_outputs/sweep_59_prompt_morning_sunrise_with_a_warm_glow_over_the_horizon_steps_20_blend_0.3_weight_0.3.png"
+    }, 
+    {
+        "steps": "30", 
+        "prompt": "golden hour sunlight filtering through trees", 
+        "blend": "0.3", 
+        "weight": "0.5", 
+        "filename": "./sweep_outputs/sweep_111_prompt_golden_hour_sunlight_filtering_through_trees_steps_30_blend_0.3_weight_0.5.png"
+    }, 
+    {
+        "steps": "30", 
+        "prompt": "dramatic spotlight on a lone subject in darkness", 
+        "blend": "0.3", 
+        "weight": "0.5", 
+        "filename": "./sweep_outputs/sweep_120_prompt_dramatic_spotlight_on_a_lone_subject_in_darkness_steps_30_blend_0.3_weight_0.5.png"
+    }, 
+    {
+        "steps": "20", 
+        "prompt": "natural light, advertising photo", 
+        "blend": "0.3", 
+        "weight": "0.3", 
+        "filename": "./sweep_outputs/sweep_46_prompt_natural_light,_advertising_photo_steps_20_blend_0.3_weight_0.3.png"
+    }, 
+    {
+        "steps": "30", 
+        "prompt": "desaturated, sepia, white", 
+        "blend": "0.5", 
+        "weight": "0.1", 
+        "filename": "./sweep_outputs/sweep_153_prompt_desaturated,_sepia,_white_steps_30_blend_0.5_weight_0.1.png"
+    }, 
+    {
+        "steps": "20", 
+        "prompt": "soft ambient light through sheer curtains", 
+        "blend": "0.3", 
+        "weight": "0.5", 
+        "filename": "./sweep_outputs/sweep_95_prompt_soft_ambient_light_through_sheer_curtains_steps_20_blend_0.3_weight_0.5.png"
+    }, 
+    {
+        "steps": "20", 
+        "prompt": "dramatic spotlight on a lone subject in darkness", 
+        "blend": "0.3", 
+        "weight": "0.3", 
+        "filename": "./sweep_outputs/sweep_60_prompt_dramatic_spotlight_on_a_lone_subject_in_darkness_steps_20_blend_0.3_weight_0.3.png"
+    }, 
+    {
+        "steps": "30", 
+        "prompt": "desaturated, sepia, white", 
+        "blend": "0.3", 
+        "weight": "0.5", 
+        "filename": "./sweep_outputs/sweep_108_prompt_desaturated,_sepia,_white_steps_30_blend_0.3_weight_0.5.png"
+    }, 
+    {
+        "steps": "30", 
+        "prompt": "cool moonlight illuminating a quiet street", 
+        "blend": "0.5", 
+        "weight": "0.1", 
+        "filename": "./sweep_outputs/sweep_161_prompt_cool_moonlight_illuminating_a_quiet_street_steps_30_blend_0.5_weight_0.1.png"
+    }, 
+    {
+        "steps": "30", 
+        "prompt": "soft ambient light through sheer curtains", 
+        "blend": "0.3", 
+        "weight": "0.3", 
+        "filename": "./sweep_outputs/sweep_65_prompt_soft_ambient_light_through_sheer_curtains_steps_30_blend_0.3_weight_0.3.png"
+    }, 
+    {
+        "steps": "30", 
+        "prompt": "natural light, advertising photo", 
+        "blend": "0.5", 
+        "weight": "0.1", 
+        "filename": "./sweep_outputs/sweep_151_prompt_natural_light,_advertising_photo_steps_30_blend_0.5_weight_0.1.png"
+    }, 
+    {
+        "steps": "50", 
+        "prompt": "cool moonlight illuminating a quiet street", 
+        "blend": "0.3", 
+        "weight": "0.5", 
+        "filename": "./sweep_outputs/sweep_131_prompt_cool_moonlight_illuminating_a_quiet_street_steps_50_blend_0.3_weight_0.5.png"
+    }, 
+    {
+        "steps": "50", 
+        "prompt": "dramatic spotlight on a lone subject in darkness", 
+        "blend": "0.3", 
+        "weight": "0.1", 
+        "filename": "./sweep_outputs/sweep_45_prompt_dramatic_spotlight_on_a_lone_subject_in_darkness_steps_50_blend_0.3_weight_0.1.png"
+    }, 
+    {
+        "steps": "30", 
+        "prompt": "golden hour sunlight filtering through trees", 
+        "blend": "0.3", 
+        "weight": "0.3", 
+        "filename": "./sweep_outputs/sweep_66_prompt_golden_hour_sunlight_filtering_through_trees_steps_30_blend_0.3_weight_0.3.png"
+    }, 
+    {
+        "steps": "30", 
+        "prompt": "fluorescent office lighting, sterile and even", 
+        "blend": "0.3", 
+        "weight": "0.1", 
+        "filename": "./sweep_outputs/sweep_28_prompt_fluorescent_office_lighting,_sterile_and_even_steps_30_blend_0.3_weight_0.1.png"
+    }, 
+    {
+        "steps": "20", 
+        "prompt": "cinematic lighting with deep shadows and highlights", 
+        "blend": "0.3", 
+        "weight": "0.1", 
+        "filename": "./sweep_outputs/sweep_10_prompt_cinematic_lighting_with_deep_shadows_and_highlights_steps_20_blend_0.3_weight_0.1.png"
+    }, 
+    {
+        "steps": "20", 
+        "prompt": "dramatic spotlight on a lone subject in darkness", 
+        "blend": "0.5", 
+        "weight": "0.1", 
+        "filename": "./sweep_outputs/sweep_150_prompt_dramatic_spotlight_on_a_lone_subject_in_darkness_steps_20_blend_0.5_weight_0.1.png"
+    }, 
+    {
+        "steps": "20", 
+        "prompt": "cool moonlight illuminating a quiet street", 
+        "blend": "0.5", 
+        "weight": "0.1", 
+        "filename": "./sweep_outputs/sweep_146_prompt_cool_moonlight_illuminating_a_quiet_street_steps_20_blend_0.5_weight_0.1.png"
+    }, 
+    {
+        "steps": "50", 
+        "prompt": "moody low-light indoors with warm lamps", 
+        "blend": "0.3", 
+        "weight": "0.3", 
+        "filename": "./sweep_outputs/sweep_83_prompt_moody_low-light_indoors_with_warm_lamps_steps_50_blend_0.3_weight_0.3.png"
+    }, 
+    {
+        "steps": "30", 
+        "prompt": "candlelight flickering in a dark room", 
+        "blend": "0.3", 
+        "weight": "0.1", 
+        "filename": "./sweep_outputs/sweep_27_prompt_candlelight_flickering_in_a_dark_room_steps_30_blend_0.3_weight_0.1.png"
+    }, 
+    {
+        "steps": "20", 
+        "prompt": "morning sunrise with a warm glow over the horizon", 
+        "blend": "0.5", 
+        "weight": "0.1", 
+        "filename": "./sweep_outputs/sweep_149_prompt_morning_sunrise_with_a_warm_glow_over_the_horizon_steps_20_blend_0.5_weight_0.1.png"
+    }, 
+    {
+        "steps": "30", 
+        "prompt": "natural light, advertising photo", 
+        "blend": "0.3", 
+        "weight": "0.1", 
+        "filename": "./sweep_outputs/sweep_16_prompt_natural_light,_advertising_photo_steps_30_blend_0.3_weight_0.1.png"
+    }, 
+    {
+        "steps": "30", 
+        "prompt": "overcast sky providing soft, diffused light", 
+        "blend": "0.3", 
+        "weight": "0.5", 
+        "filename": "./sweep_outputs/sweep_114_prompt_overcast_sky_providing_soft,_diffused_light_steps_30_blend_0.3_weight_0.5.png"
+    }, 
+    {
+        "steps": "20", 
+        "prompt": "studio lighting, high contrast", 
+        "blend": "0.3", 
+        "weight": "0.3", 
+        "filename": "./sweep_outputs/sweep_49_prompt_studio_lighting,_high_contrast_steps_20_blend_0.3_weight_0.3.png"
+    }, 
+    {
+        "steps": "50", 
+        "prompt": "golden hour sunlight filtering through trees", 
+        "blend": "0.3", 
+        "weight": "0.3", 
+        "filename": "./sweep_outputs/sweep_81_prompt_golden_hour_sunlight_filtering_through_trees_steps_50_blend_0.3_weight_0.3.png"
+    }, 
+    {
+        "steps": "50", 
+        "prompt": "sunshine through a tropical foreground garden", 
+        "blend": "0.3", 
+        "weight": "0.3", 
+        "filename": "./sweep_outputs/sweep_77_prompt_sunshine_through_a_tropical_foreground_garden_steps_50_blend_0.3_weight_0.3.png"
+    }, 
+    {
+        "steps": "20", 
+        "prompt": "cinematic lighting with deep shadows and highlights", 
+        "blend": "0.5", 
+        "weight": "0.1", 
+        "filename": "./sweep_outputs/sweep_145_prompt_cinematic_lighting_with_deep_shadows_and_highlights_steps_20_blend_0.5_weight_0.1.png"
+    }, 
+    {
+        "steps": "30", 
+        "prompt": "overcast sky providing soft, diffused light", 
+        "blend": "0.3", 
+        "weight": "0.1", 
+        "filename": "./sweep_outputs/sweep_24_prompt_overcast_sky_providing_soft,_diffused_light_steps_30_blend_0.3_weight_0.1.png"
+    }
+]
