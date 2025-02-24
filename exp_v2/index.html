@@ -15,6 +15,21 @@
         --shadow: 0 0 10px rgba(0, 0, 0, 0.1);
       }
 
+      image-compare {
+        --thumb-size: clamp(1em, 6vmin, 2em);
+        --thumb-background-color: hsla(0, 0%, 100%, 0.9);
+        --thumb-background-image: url('data:image/svg+xml;utf8,<svg viewbox="0 0 60 60"  width="60" height="60" xmlns="http://www.w3.org/2000/svg"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="4" d="M20 20 L10 30 L20 40"/><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="4" d="M40 20 L50 30 L40 40"/></svg>');
+        --thumb-radius: 50%;
+        --thumb-border-color: hsla(0, 0%, 0%, 0.9);
+        --thumb-border-size: 2px;
+
+        --focus-width: var(--thumb-border-size);
+        --focus-color: hsl(200, 100%, 80%);
+
+        --border-width: 2px;
+        --border-color: hsla(0, 0%, 0%, 0.9);
+      }
+
       body {
         font-family: var(--primary-font);
         background-color: var(--background-color);
