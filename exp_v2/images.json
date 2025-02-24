@@ -1,0 +1,3134 @@
+[
+    {
+        "filename": "./sweep_outputs/sweep_186_prompt_golden_hour_sunlight_filtering_through_trees_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_usemask_True_alphamask_spiral.png.png",
+        "prompt": "golden hour sunlight filtering through trees",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_186_prompt_golden_hour_sunlight_filtering_through_trees_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_26_prompt_moody_low-light_indoors_with_warm_lamps_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_usemask_True_alphamask_spiral.png.png",
+        "prompt": "moody low-light indoors with warm lamps",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_26_prompt_moody_low-light_indoors_with_warm_lamps_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_87_prompt_overcast_sky_providing_soft,_diffused_light_iclightmult_0.1_steps_50_blend_0.3_weight_0.1_usemask_False_alphamask_test_b_alpha.jpg.png",
+        "prompt": "overcast sky providing soft, diffused light",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_87_prompt_overcast_sky_providing_soft,_diffused_light_iclightmult_0.1_steps_50_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_63_prompt_desaturated,_sepia,_white_iclightmult_0.1_steps_50_blend_0.3_weight_0.1_usemask_False_alphamask_test_b_alpha.jpg.png",
+        "prompt": "desaturated, sepia, white",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_63_prompt_desaturated,_sepia,_white_iclightmult_0.1_steps_50_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_132_prompt_golden_hour_sunlight_filtering_through_trees_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_usemask_False_alphamask_spiral.png.png",
+        "prompt": "golden hour sunlight filtering through trees",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_132_prompt_golden_hour_sunlight_filtering_through_trees_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_12_prompt_studio_lighting,_high_contrast_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_usemask_False_alphamask_spiral.png.png",
+        "prompt": "studio lighting, high contrast",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_12_prompt_studio_lighting,_high_contrast_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_126_prompt_soft_ambient_light_through_sheer_curtains_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_usemask_True_alphamask_spiral.png.png",
+        "prompt": "soft ambient light through sheer curtains",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_126_prompt_soft_ambient_light_through_sheer_curtains_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_76_prompt_golden_hour_sunlight_filtering_through_trees_iclightmult_0.1_steps_50_blend_0.3_weight_0.1_usemask_False_alphamask_spiral.png.png",
+        "prompt": "golden hour sunlight filtering through trees",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_76_prompt_golden_hour_sunlight_filtering_through_trees_iclightmult_0.1_steps_50_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_146_prompt_cinematic_lighting_with_deep_shadows_and_highlights_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_usemask_True_alphamask_spiral.png.png",
+        "prompt": "cinematic lighting with deep shadows and highlights",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_146_prompt_cinematic_lighting_with_deep_shadows_and_highlights_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_4_prompt_sunshine_through_a_tropical_foreground_garden_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_usemask_False_alphamask_spiral.png.png",
+        "prompt": "sunshine through a tropical foreground garden",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_4_prompt_sunshine_through_a_tropical_foreground_garden_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_133_prompt_harsh_midday_sun_casting_strong_shadows_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_usemask_True_alphamask_test_b_alpha.jpg.png",
+        "prompt": "harsh midday sun casting strong shadows",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_133_prompt_harsh_midday_sun_casting_strong_shadows_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_292_prompt_studio_lighting,_high_contrast_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_usemask_False_alphamask_spiral.png.png",
+        "prompt": "studio lighting, high contrast",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_292_prompt_studio_lighting,_high_contrast_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_73_prompt_golden_hour_sunlight_filtering_through_trees_iclightmult_0.1_steps_50_blend_0.3_weight_0.1_usemask_True_alphamask_test_b_alpha.jpg.png",
+        "prompt": "golden hour sunlight filtering through trees",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_73_prompt_golden_hour_sunlight_filtering_through_trees_iclightmult_0.1_steps_50_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_71_prompt_soft_ambient_light_through_sheer_curtains_iclightmult_0.1_steps_50_blend_0.3_weight_0.1_usemask_False_alphamask_test_b_alpha.jpg.png",
+        "prompt": "soft ambient light through sheer curtains",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_71_prompt_soft_ambient_light_through_sheer_curtains_iclightmult_0.1_steps_50_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_269_prompt_fluorescent_office_lighting,_sterile_and_even_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_usemask_True_alphamask_test_b_alpha.jpg.png",
+        "prompt": "fluorescent office lighting, sterile and even",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_269_prompt_fluorescent_office_lighting,_sterile_and_even_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_72_prompt_soft_ambient_light_through_sheer_curtains_iclightmult_0.1_steps_50_blend_0.3_weight_0.1_usemask_False_alphamask_spiral.png.png",
+        "prompt": "soft ambient light through sheer curtains",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_72_prompt_soft_ambient_light_through_sheer_curtains_iclightmult_0.1_steps_50_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_143_prompt_overcast_sky_providing_soft,_diffused_light_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_usemask_False_alphamask_test_b_alpha.jpg.png",
+        "prompt": "overcast sky providing soft, diffused light",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_143_prompt_overcast_sky_providing_soft,_diffused_light_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_107_prompt_morning_sunrise_with_a_warm_glow_over_the_horizon_iclightmult_0.1_steps_50_blend_0.3_weight_0.1_usemask_False_alphamask_test_b_alpha.jpg.png",
+        "prompt": "morning sunrise with a warm glow over the horizon",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_107_prompt_morning_sunrise_with_a_warm_glow_over_the_horizon_iclightmult_0.1_steps_50_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_350_prompt_soft_ambient_light_through_sheer_curtains_iclightmult_0.15_steps_30_blend_0.3_weight_0.1_usemask_True_alphamask_spiral.png.png",
+        "prompt": "soft ambient light through sheer curtains",
+        "iclight_multiplier": 0.15,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_350_prompt_soft_ambient_light_through_sheer_curtains_iclightmult_0.15_steps_30_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_96_prompt_cool_moonlight_illuminating_a_quiet_street_iclightmult_0.1_steps_50_blend_0.3_weight_0.1_usemask_False_alphamask_spiral.png.png",
+        "prompt": "cool moonlight illuminating a quiet street",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_96_prompt_cool_moonlight_illuminating_a_quiet_street_iclightmult_0.1_steps_50_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_207_prompt_cool_moonlight_illuminating_a_quiet_street_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_usemask_False_alphamask_test_b_alpha.jpg.png",
+        "prompt": "cool moonlight illuminating a quiet street",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_207_prompt_cool_moonlight_illuminating_a_quiet_street_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_348_prompt_studio_lighting,_high_contrast_iclightmult_0.15_steps_30_blend_0.3_weight_0.1_usemask_False_alphamask_spiral.png.png",
+        "prompt": "studio lighting, high contrast",
+        "iclight_multiplier": 0.15,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_348_prompt_studio_lighting,_high_contrast_iclightmult_0.15_steps_30_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_162_prompt_morning_sunrise_with_a_warm_glow_over_the_horizon_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_usemask_True_alphamask_spiral.png.png",
+        "prompt": "morning sunrise with a warm glow over the horizon",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_162_prompt_morning_sunrise_with_a_warm_glow_over_the_horizon_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_83_prompt_moody_low-light_indoors_with_warm_lamps_iclightmult_0.1_steps_50_blend_0.3_weight_0.1_usemask_False_alphamask_test_b_alpha.jpg.png",
+        "prompt": "moody low-light indoors with warm lamps",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_83_prompt_moody_low-light_indoors_with_warm_lamps_iclightmult_0.1_steps_50_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_255_prompt_overcast_sky_providing_soft,_diffused_light_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_usemask_False_alphamask_test_b_alpha.jpg.png",
+        "prompt": "overcast sky providing soft, diffused light",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_255_prompt_overcast_sky_providing_soft,_diffused_light_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_248_prompt_harsh_midday_sun_casting_strong_shadows_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_usemask_False_alphamask_spiral.png.png",
+        "prompt": "harsh midday sun casting strong shadows",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_248_prompt_harsh_midday_sun_casting_strong_shadows_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_197_prompt_overcast_sky_providing_soft,_diffused_light_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_usemask_True_alphamask_test_b_alpha.jpg.png",
+        "prompt": "overcast sky providing soft, diffused light",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_197_prompt_overcast_sky_providing_soft,_diffused_light_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_330_prompt_morning_sunrise_with_a_warm_glow_over_the_horizon_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_usemask_True_alphamask_spiral.png.png",
+        "prompt": "morning sunrise with a warm glow over the horizon",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_330_prompt_morning_sunrise_with_a_warm_glow_over_the_horizon_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_289_prompt_studio_lighting,_high_contrast_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_usemask_True_alphamask_test_b_alpha.jpg.png",
+        "prompt": "studio lighting, high contrast",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_289_prompt_studio_lighting,_high_contrast_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_151_prompt_cool_moonlight_illuminating_a_quiet_street_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_usemask_False_alphamask_test_b_alpha.jpg.png",
+        "prompt": "cool moonlight illuminating a quiet street",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_151_prompt_cool_moonlight_illuminating_a_quiet_street_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_1_prompt_sunshine_through_a_tropical_foreground_garden_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_usemask_True_alphamask_test_b_alpha.jpg.png",
+        "prompt": "sunshine through a tropical foreground garden",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_1_prompt_sunshine_through_a_tropical_foreground_garden_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_236_prompt_studio_lighting,_high_contrast_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_usemask_False_alphamask_spiral.png.png",
+        "prompt": "studio lighting, high contrast",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_236_prompt_studio_lighting,_high_contrast_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_220_prompt_morning_sunrise_with_a_warm_glow_over_the_horizon_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_usemask_False_alphamask_spiral.png.png",
+        "prompt": "morning sunrise with a warm glow over the horizon",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_220_prompt_morning_sunrise_with_a_warm_glow_over_the_horizon_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_122_prompt_studio_lighting,_high_contrast_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_usemask_True_alphamask_spiral.png.png",
+        "prompt": "studio lighting, high contrast",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_122_prompt_studio_lighting,_high_contrast_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_284_prompt_sunshine_through_a_tropical_foreground_garden_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_usemask_False_alphamask_spiral.png.png",
+        "prompt": "sunshine through a tropical foreground garden",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_284_prompt_sunshine_through_a_tropical_foreground_garden_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_106_prompt_morning_sunrise_with_a_warm_glow_over_the_horizon_iclightmult_0.1_steps_50_blend_0.3_weight_0.1_usemask_True_alphamask_spiral.png.png",
+        "prompt": "morning sunrise with a warm glow over the horizon",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_106_prompt_morning_sunrise_with_a_warm_glow_over_the_horizon_iclightmult_0.1_steps_50_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_196_prompt_moody_low-light_indoors_with_warm_lamps_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_usemask_False_alphamask_spiral.png.png",
+        "prompt": "moody low-light indoors with warm lamps",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_196_prompt_moody_low-light_indoors_with_warm_lamps_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_70_prompt_soft_ambient_light_through_sheer_curtains_iclightmult_0.1_steps_50_blend_0.3_weight_0.1_usemask_True_alphamask_spiral.png.png",
+        "prompt": "soft ambient light through sheer curtains",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_70_prompt_soft_ambient_light_through_sheer_curtains_iclightmult_0.1_steps_50_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_175_prompt_desaturated,_sepia,_white_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_usemask_False_alphamask_test_b_alpha.jpg.png",
+        "prompt": "desaturated, sepia, white",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_175_prompt_desaturated,_sepia,_white_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_191_prompt_harsh_midday_sun_casting_strong_shadows_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_usemask_False_alphamask_test_b_alpha.jpg.png",
+        "prompt": "harsh midday sun casting strong shadows",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_191_prompt_harsh_midday_sun_casting_strong_shadows_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_91_prompt_cinematic_lighting_with_deep_shadows_and_highlights_iclightmult_0.1_steps_50_blend_0.3_weight_0.1_usemask_False_alphamask_test_b_alpha.jpg.png",
+        "prompt": "cinematic lighting with deep shadows and highlights",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_91_prompt_cinematic_lighting_with_deep_shadows_and_highlights_iclightmult_0.1_steps_50_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_315_prompt_cinematic_lighting_with_deep_shadows_and_highlights_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_usemask_False_alphamask_test_b_alpha.jpg.png",
+        "prompt": "cinematic lighting with deep shadows and highlights",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_315_prompt_cinematic_lighting_with_deep_shadows_and_highlights_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_195_prompt_moody_low-light_indoors_with_warm_lamps_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_usemask_False_alphamask_test_b_alpha.jpg.png",
+        "prompt": "moody low-light indoors with warm lamps",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_195_prompt_moody_low-light_indoors_with_warm_lamps_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_51_prompt_morning_sunrise_with_a_warm_glow_over_the_horizon_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_usemask_False_alphamask_test_b_alpha.jpg.png",
+        "prompt": "morning sunrise with a warm glow over the horizon",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_51_prompt_morning_sunrise_with_a_warm_glow_over_the_horizon_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_179_prompt_studio_lighting,_high_contrast_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_usemask_False_alphamask_test_b_alpha.jpg.png",
+        "prompt": "studio lighting, high contrast",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_179_prompt_studio_lighting,_high_contrast_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_140_prompt_moody_low-light_indoors_with_warm_lamps_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_usemask_False_alphamask_spiral.png.png",
+        "prompt": "moody low-light indoors with warm lamps",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_140_prompt_moody_low-light_indoors_with_warm_lamps_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_164_prompt_morning_sunrise_with_a_warm_glow_over_the_horizon_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_usemask_False_alphamask_spiral.png.png",
+        "prompt": "morning sunrise with a warm glow over the horizon",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_164_prompt_morning_sunrise_with_a_warm_glow_over_the_horizon_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_81_prompt_moody_low-light_indoors_with_warm_lamps_iclightmult_0.1_steps_50_blend_0.3_weight_0.1_usemask_True_alphamask_test_b_alpha.jpg.png",
+        "prompt": "moody low-light indoors with warm lamps",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_81_prompt_moody_low-light_indoors_with_warm_lamps_iclightmult_0.1_steps_50_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_61_prompt_desaturated,_sepia,_white_iclightmult_0.1_steps_50_blend_0.3_weight_0.1_usemask_True_alphamask_test_b_alpha.jpg.png",
+        "prompt": "desaturated, sepia, white",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_61_prompt_desaturated,_sepia,_white_iclightmult_0.1_steps_50_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_138_prompt_moody_low-light_indoors_with_warm_lamps_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_usemask_True_alphamask_spiral.png.png",
+        "prompt": "moody low-light indoors with warm lamps",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_138_prompt_moody_low-light_indoors_with_warm_lamps_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_237_prompt_soft_ambient_light_through_sheer_curtains_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_usemask_True_alphamask_test_b_alpha.jpg.png",
+        "prompt": "soft ambient light through sheer curtains",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_237_prompt_soft_ambient_light_through_sheer_curtains_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_275_prompt_morning_sunrise_with_a_warm_glow_over_the_horizon_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_usemask_False_alphamask_test_b_alpha.jpg.png",
+        "prompt": "morning sunrise with a warm glow over the horizon",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_275_prompt_morning_sunrise_with_a_warm_glow_over_the_horizon_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_215_prompt_fluorescent_office_lighting,_sterile_and_even_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_usemask_False_alphamask_test_b_alpha.jpg.png",
+        "prompt": "fluorescent office lighting, sterile and even",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_215_prompt_fluorescent_office_lighting,_sterile_and_even_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_263_prompt_cool_moonlight_illuminating_a_quiet_street_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_usemask_False_alphamask_test_b_alpha.jpg.png",
+        "prompt": "cool moonlight illuminating a quiet street",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_263_prompt_cool_moonlight_illuminating_a_quiet_street_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_180_prompt_studio_lighting,_high_contrast_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_usemask_False_alphamask_spiral.png.png",
+        "prompt": "studio lighting, high contrast",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_180_prompt_studio_lighting,_high_contrast_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_199_prompt_overcast_sky_providing_soft,_diffused_light_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_usemask_False_alphamask_test_b_alpha.jpg.png",
+        "prompt": "overcast sky providing soft, diffused light",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_199_prompt_overcast_sky_providing_soft,_diffused_light_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_230_prompt_desaturated,_sepia,_white_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_usemask_True_alphamask_spiral.png.png",
+        "prompt": "desaturated, sepia, white",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_230_prompt_desaturated,_sepia,_white_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_272_prompt_fluorescent_office_lighting,_sterile_and_even_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_usemask_False_alphamask_spiral.png.png",
+        "prompt": "fluorescent office lighting, sterile and even",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_272_prompt_fluorescent_office_lighting,_sterile_and_even_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_226_prompt_sunshine_through_a_tropical_foreground_garden_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_usemask_True_alphamask_spiral.png.png",
+        "prompt": "sunshine through a tropical foreground garden",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_226_prompt_sunshine_through_a_tropical_foreground_garden_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_266_prompt_candlelight_flickering_in_a_dark_room_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_usemask_True_alphamask_spiral.png.png",
+        "prompt": "candlelight flickering in a dark room",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_266_prompt_candlelight_flickering_in_a_dark_room_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_182_prompt_soft_ambient_light_through_sheer_curtains_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_usemask_True_alphamask_spiral.png.png",
+        "prompt": "soft ambient light through sheer curtains",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_182_prompt_soft_ambient_light_through_sheer_curtains_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_246_prompt_harsh_midday_sun_casting_strong_shadows_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_usemask_True_alphamask_spiral.png.png",
+        "prompt": "harsh midday sun casting strong shadows",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_246_prompt_harsh_midday_sun_casting_strong_shadows_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_68_prompt_studio_lighting,_high_contrast_iclightmult_0.1_steps_50_blend_0.3_weight_0.1_usemask_False_alphamask_spiral.png.png",
+        "prompt": "studio lighting, high contrast",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_68_prompt_studio_lighting,_high_contrast_iclightmult_0.1_steps_50_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_170_prompt_sunshine_through_a_tropical_foreground_garden_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_usemask_True_alphamask_spiral.png.png",
+        "prompt": "sunshine through a tropical foreground garden",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_170_prompt_sunshine_through_a_tropical_foreground_garden_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_301_prompt_harsh_midday_sun_casting_strong_shadows_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_usemask_True_alphamask_test_b_alpha.jpg.png",
+        "prompt": "harsh midday sun casting strong shadows",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_301_prompt_harsh_midday_sun_casting_strong_shadows_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_124_prompt_studio_lighting,_high_contrast_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_usemask_False_alphamask_spiral.png.png",
+        "prompt": "studio lighting, high contrast",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_124_prompt_studio_lighting,_high_contrast_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_22_prompt_harsh_midday_sun_casting_strong_shadows_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_usemask_True_alphamask_spiral.png.png",
+        "prompt": "harsh midday sun casting strong shadows",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_22_prompt_harsh_midday_sun_casting_strong_shadows_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_49_prompt_morning_sunrise_with_a_warm_glow_over_the_horizon_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_usemask_True_alphamask_test_b_alpha.jpg.png",
+        "prompt": "morning sunrise with a warm glow over the horizon",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_49_prompt_morning_sunrise_with_a_warm_glow_over_the_horizon_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_105_prompt_morning_sunrise_with_a_warm_glow_over_the_horizon_iclightmult_0.1_steps_50_blend_0.3_weight_0.1_usemask_True_alphamask_test_b_alpha.jpg.png",
+        "prompt": "morning sunrise with a warm glow over the horizon",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_105_prompt_morning_sunrise_with_a_warm_glow_over_the_horizon_iclightmult_0.1_steps_50_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_44_prompt_candlelight_flickering_in_a_dark_room_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_usemask_False_alphamask_spiral.png.png",
+        "prompt": "candlelight flickering in a dark room",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_44_prompt_candlelight_flickering_in_a_dark_room_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_127_prompt_soft_ambient_light_through_sheer_curtains_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_usemask_False_alphamask_test_b_alpha.jpg.png",
+        "prompt": "soft ambient light through sheer curtains",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_127_prompt_soft_ambient_light_through_sheer_curtains_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_317_prompt_cool_moonlight_illuminating_a_quiet_street_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_usemask_True_alphamask_test_b_alpha.jpg.png",
+        "prompt": "cool moonlight illuminating a quiet street",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_317_prompt_cool_moonlight_illuminating_a_quiet_street_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_155_prompt_candlelight_flickering_in_a_dark_room_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_usemask_False_alphamask_test_b_alpha.jpg.png",
+        "prompt": "candlelight flickering in a dark room",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_155_prompt_candlelight_flickering_in_a_dark_room_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_176_prompt_desaturated,_sepia,_white_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_usemask_False_alphamask_spiral.png.png",
+        "prompt": "desaturated, sepia, white",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_176_prompt_desaturated,_sepia,_white_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_242_prompt_golden_hour_sunlight_filtering_through_trees_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_usemask_True_alphamask_spiral.png.png",
+        "prompt": "golden hour sunlight filtering through trees",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_242_prompt_golden_hour_sunlight_filtering_through_trees_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_29_prompt_overcast_sky_providing_soft,_diffused_light_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_usemask_True_alphamask_test_b_alpha.jpg.png",
+        "prompt": "overcast sky providing soft, diffused light",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_29_prompt_overcast_sky_providing_soft,_diffused_light_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_114_prompt_sunshine_through_a_tropical_foreground_garden_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_usemask_True_alphamask_spiral.png.png",
+        "prompt": "sunshine through a tropical foreground garden",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_114_prompt_sunshine_through_a_tropical_foreground_garden_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_239_prompt_soft_ambient_light_through_sheer_curtains_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_usemask_False_alphamask_test_b_alpha.jpg.png",
+        "prompt": "soft ambient light through sheer curtains",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_239_prompt_soft_ambient_light_through_sheer_curtains_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_194_prompt_moody_low-light_indoors_with_warm_lamps_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_usemask_True_alphamask_spiral.png.png",
+        "prompt": "moody low-light indoors with warm lamps",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_194_prompt_moody_low-light_indoors_with_warm_lamps_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_250_prompt_moody_low-light_indoors_with_warm_lamps_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_usemask_True_alphamask_spiral.png.png",
+        "prompt": "moody low-light indoors with warm lamps",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_250_prompt_moody_low-light_indoors_with_warm_lamps_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_130_prompt_golden_hour_sunlight_filtering_through_trees_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_usemask_True_alphamask_spiral.png.png",
+        "prompt": "golden hour sunlight filtering through trees",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_130_prompt_golden_hour_sunlight_filtering_through_trees_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_187_prompt_golden_hour_sunlight_filtering_through_trees_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_usemask_False_alphamask_test_b_alpha.jpg.png",
+        "prompt": "golden hour sunlight filtering through trees",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_187_prompt_golden_hour_sunlight_filtering_through_trees_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_102_prompt_fluorescent_office_lighting,_sterile_and_even_iclightmult_0.1_steps_50_blend_0.3_weight_0.1_usemask_True_alphamask_spiral.png.png",
+        "prompt": "fluorescent office lighting, sterile and even",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_102_prompt_fluorescent_office_lighting,_sterile_and_even_iclightmult_0.1_steps_50_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_234_prompt_studio_lighting,_high_contrast_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_usemask_True_alphamask_spiral.png.png",
+        "prompt": "studio lighting, high contrast",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_234_prompt_studio_lighting,_high_contrast_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_276_prompt_morning_sunrise_with_a_warm_glow_over_the_horizon_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_usemask_False_alphamask_spiral.png.png",
+        "prompt": "morning sunrise with a warm glow over the horizon",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_276_prompt_morning_sunrise_with_a_warm_glow_over_the_horizon_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_104_prompt_fluorescent_office_lighting,_sterile_and_even_iclightmult_0.1_steps_50_blend_0.3_weight_0.1_usemask_False_alphamask_spiral.png.png",
+        "prompt": "fluorescent office lighting, sterile and even",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_104_prompt_fluorescent_office_lighting,_sterile_and_even_iclightmult_0.1_steps_50_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_227_prompt_sunshine_through_a_tropical_foreground_garden_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_usemask_False_alphamask_test_b_alpha.jpg.png",
+        "prompt": "sunshine through a tropical foreground garden",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_227_prompt_sunshine_through_a_tropical_foreground_garden_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_291_prompt_studio_lighting,_high_contrast_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_usemask_False_alphamask_test_b_alpha.jpg.png",
+        "prompt": "studio lighting, high contrast",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_291_prompt_studio_lighting,_high_contrast_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_10_prompt_studio_lighting,_high_contrast_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_usemask_True_alphamask_spiral.png.png",
+        "prompt": "studio lighting, high contrast",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_10_prompt_studio_lighting,_high_contrast_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_288_prompt_desaturated,_sepia,_white_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_usemask_False_alphamask_spiral.png.png",
+        "prompt": "desaturated, sepia, white",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_288_prompt_desaturated,_sepia,_white_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_6_prompt_desaturated,_sepia,_white_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_usemask_True_alphamask_spiral.png.png",
+        "prompt": "desaturated, sepia, white",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_6_prompt_desaturated,_sepia,_white_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_113_prompt_sunshine_through_a_tropical_foreground_garden_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_usemask_True_alphamask_test_b_alpha.jpg.png",
+        "prompt": "sunshine through a tropical foreground garden",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_113_prompt_sunshine_through_a_tropical_foreground_garden_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_93_prompt_cool_moonlight_illuminating_a_quiet_street_iclightmult_0.1_steps_50_blend_0.3_weight_0.1_usemask_True_alphamask_test_b_alpha.jpg.png",
+        "prompt": "cool moonlight illuminating a quiet street",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_93_prompt_cool_moonlight_illuminating_a_quiet_street_iclightmult_0.1_steps_50_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_167_prompt_dramatic_spotlight_on_a_lone_subject_in_darkness_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_usemask_False_alphamask_test_b_alpha.jpg.png",
+        "prompt": "dramatic spotlight on a lone subject in darkness",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_167_prompt_dramatic_spotlight_on_a_lone_subject_in_darkness_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_267_prompt_candlelight_flickering_in_a_dark_room_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_usemask_False_alphamask_test_b_alpha.jpg.png",
+        "prompt": "candlelight flickering in a dark room",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_267_prompt_candlelight_flickering_in_a_dark_room_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_109_prompt_dramatic_spotlight_on_a_lone_subject_in_darkness_iclightmult_0.1_steps_50_blend_0.3_weight_0.1_usemask_True_alphamask_test_b_alpha.jpg.png",
+        "prompt": "dramatic spotlight on a lone subject in darkness",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_109_prompt_dramatic_spotlight_on_a_lone_subject_in_darkness_iclightmult_0.1_steps_50_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_208_prompt_cool_moonlight_illuminating_a_quiet_street_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_usemask_False_alphamask_spiral.png.png",
+        "prompt": "cool moonlight illuminating a quiet street",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_208_prompt_cool_moonlight_illuminating_a_quiet_street_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_5_prompt_desaturated,_sepia,_white_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_usemask_True_alphamask_test_b_alpha.jpg.png",
+        "prompt": "desaturated, sepia, white",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_5_prompt_desaturated,_sepia,_white_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_225_prompt_sunshine_through_a_tropical_foreground_garden_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_usemask_True_alphamask_test_b_alpha.jpg.png",
+        "prompt": "sunshine through a tropical foreground garden",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_225_prompt_sunshine_through_a_tropical_foreground_garden_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_95_prompt_cool_moonlight_illuminating_a_quiet_street_iclightmult_0.1_steps_50_blend_0.3_weight_0.1_usemask_False_alphamask_test_b_alpha.jpg.png",
+        "prompt": "cool moonlight illuminating a quiet street",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_95_prompt_cool_moonlight_illuminating_a_quiet_street_iclightmult_0.1_steps_50_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_309_prompt_overcast_sky_providing_soft,_diffused_light_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_usemask_True_alphamask_test_b_alpha.jpg.png",
+        "prompt": "overcast sky providing soft, diffused light",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_309_prompt_overcast_sky_providing_soft,_diffused_light_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_111_prompt_dramatic_spotlight_on_a_lone_subject_in_darkness_iclightmult_0.1_steps_50_blend_0.3_weight_0.1_usemask_False_alphamask_test_b_alpha.jpg.png",
+        "prompt": "dramatic spotlight on a lone subject in darkness",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_111_prompt_dramatic_spotlight_on_a_lone_subject_in_darkness_iclightmult_0.1_steps_50_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_149_prompt_cool_moonlight_illuminating_a_quiet_street_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_usemask_True_alphamask_test_b_alpha.jpg.png",
+        "prompt": "cool moonlight illuminating a quiet street",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_149_prompt_cool_moonlight_illuminating_a_quiet_street_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_103_prompt_fluorescent_office_lighting,_sterile_and_even_iclightmult_0.1_steps_50_blend_0.3_weight_0.1_usemask_False_alphamask_test_b_alpha.jpg.png",
+        "prompt": "fluorescent office lighting, sterile and even",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_103_prompt_fluorescent_office_lighting,_sterile_and_even_iclightmult_0.1_steps_50_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_332_prompt_morning_sunrise_with_a_warm_glow_over_the_horizon_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_usemask_False_alphamask_spiral.png.png",
+        "prompt": "morning sunrise with a warm glow over the horizon",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_332_prompt_morning_sunrise_with_a_warm_glow_over_the_horizon_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_27_prompt_moody_low-light_indoors_with_warm_lamps_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_usemask_False_alphamask_test_b_alpha.jpg.png",
+        "prompt": "moody low-light indoors with warm lamps",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_27_prompt_moody_low-light_indoors_with_warm_lamps_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_23_prompt_harsh_midday_sun_casting_strong_shadows_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_usemask_False_alphamask_test_b_alpha.jpg.png",
+        "prompt": "harsh midday sun casting strong shadows",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_23_prompt_harsh_midday_sun_casting_strong_shadows_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_201_prompt_cinematic_lighting_with_deep_shadows_and_highlights_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_usemask_True_alphamask_test_b_alpha.jpg.png",
+        "prompt": "cinematic lighting with deep shadows and highlights",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_201_prompt_cinematic_lighting_with_deep_shadows_and_highlights_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_206_prompt_cool_moonlight_illuminating_a_quiet_street_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_usemask_True_alphamask_spiral.png.png",
+        "prompt": "cool moonlight illuminating a quiet street",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_206_prompt_cool_moonlight_illuminating_a_quiet_street_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_188_prompt_golden_hour_sunlight_filtering_through_trees_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_usemask_False_alphamask_spiral.png.png",
+        "prompt": "golden hour sunlight filtering through trees",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_188_prompt_golden_hour_sunlight_filtering_through_trees_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_290_prompt_studio_lighting,_high_contrast_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_usemask_True_alphamask_spiral.png.png",
+        "prompt": "studio lighting, high contrast",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_290_prompt_studio_lighting,_high_contrast_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_8_prompt_desaturated,_sepia,_white_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_usemask_False_alphamask_spiral.png.png",
+        "prompt": "desaturated, sepia, white",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_8_prompt_desaturated,_sepia,_white_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_15_prompt_soft_ambient_light_through_sheer_curtains_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_usemask_False_alphamask_test_b_alpha.jpg.png",
+        "prompt": "soft ambient light through sheer curtains",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_15_prompt_soft_ambient_light_through_sheer_curtains_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_88_prompt_overcast_sky_providing_soft,_diffused_light_iclightmult_0.1_steps_50_blend_0.3_weight_0.1_usemask_False_alphamask_spiral.png.png",
+        "prompt": "overcast sky providing soft, diffused light",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_88_prompt_overcast_sky_providing_soft,_diffused_light_iclightmult_0.1_steps_50_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_295_prompt_soft_ambient_light_through_sheer_curtains_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_usemask_False_alphamask_test_b_alpha.jpg.png",
+        "prompt": "soft ambient light through sheer curtains",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_295_prompt_soft_ambient_light_through_sheer_curtains_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_60_prompt_sunshine_through_a_tropical_foreground_garden_iclightmult_0.1_steps_50_blend_0.3_weight_0.1_usemask_False_alphamask_spiral.png.png",
+        "prompt": "sunshine through a tropical foreground garden",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_60_prompt_sunshine_through_a_tropical_foreground_garden_iclightmult_0.1_steps_50_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_184_prompt_soft_ambient_light_through_sheer_curtains_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_usemask_False_alphamask_spiral.png.png",
+        "prompt": "soft ambient light through sheer curtains",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_184_prompt_soft_ambient_light_through_sheer_curtains_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_294_prompt_soft_ambient_light_through_sheer_curtains_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_usemask_True_alphamask_spiral.png.png",
+        "prompt": "soft ambient light through sheer curtains",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_294_prompt_soft_ambient_light_through_sheer_curtains_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_217_prompt_morning_sunrise_with_a_warm_glow_over_the_horizon_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_usemask_True_alphamask_test_b_alpha.jpg.png",
+        "prompt": "morning sunrise with a warm glow over the horizon",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_217_prompt_morning_sunrise_with_a_warm_glow_over_the_horizon_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_31_prompt_overcast_sky_providing_soft,_diffused_light_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_usemask_False_alphamask_test_b_alpha.jpg.png",
+        "prompt": "overcast sky providing soft, diffused light",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_31_prompt_overcast_sky_providing_soft,_diffused_light_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_305_prompt_moody_low-light_indoors_with_warm_lamps_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_usemask_True_alphamask_test_b_alpha.jpg.png",
+        "prompt": "moody low-light indoors with warm lamps",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_305_prompt_moody_low-light_indoors_with_warm_lamps_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_80_prompt_harsh_midday_sun_casting_strong_shadows_iclightmult_0.1_steps_50_blend_0.3_weight_0.1_usemask_False_alphamask_spiral.png.png",
+        "prompt": "harsh midday sun casting strong shadows",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_80_prompt_harsh_midday_sun_casting_strong_shadows_iclightmult_0.1_steps_50_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_59_prompt_sunshine_through_a_tropical_foreground_garden_iclightmult_0.1_steps_50_blend_0.3_weight_0.1_usemask_False_alphamask_test_b_alpha.jpg.png",
+        "prompt": "sunshine through a tropical foreground garden",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_59_prompt_sunshine_through_a_tropical_foreground_garden_iclightmult_0.1_steps_50_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_28_prompt_moody_low-light_indoors_with_warm_lamps_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_usemask_False_alphamask_spiral.png.png",
+        "prompt": "moody low-light indoors with warm lamps",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_28_prompt_moody_low-light_indoors_with_warm_lamps_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_48_prompt_fluorescent_office_lighting,_sterile_and_even_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_usemask_False_alphamask_spiral.png.png",
+        "prompt": "fluorescent office lighting, sterile and even",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_48_prompt_fluorescent_office_lighting,_sterile_and_even_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_174_prompt_desaturated,_sepia,_white_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_usemask_True_alphamask_spiral.png.png",
+        "prompt": "desaturated, sepia, white",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_174_prompt_desaturated,_sepia,_white_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_2_prompt_sunshine_through_a_tropical_foreground_garden_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_usemask_True_alphamask_spiral.png.png",
+        "prompt": "sunshine through a tropical foreground garden",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_2_prompt_sunshine_through_a_tropical_foreground_garden_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_240_prompt_soft_ambient_light_through_sheer_curtains_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_usemask_False_alphamask_spiral.png.png",
+        "prompt": "soft ambient light through sheer curtains",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_240_prompt_soft_ambient_light_through_sheer_curtains_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_299_prompt_golden_hour_sunlight_filtering_through_trees_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_usemask_False_alphamask_test_b_alpha.jpg.png",
+        "prompt": "golden hour sunlight filtering through trees",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_299_prompt_golden_hour_sunlight_filtering_through_trees_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_36_prompt_cinematic_lighting_with_deep_shadows_and_highlights_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_usemask_False_alphamask_spiral.png.png",
+        "prompt": "cinematic lighting with deep shadows and highlights",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_36_prompt_cinematic_lighting_with_deep_shadows_and_highlights_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_110_prompt_dramatic_spotlight_on_a_lone_subject_in_darkness_iclightmult_0.1_steps_50_blend_0.3_weight_0.1_usemask_True_alphamask_spiral.png.png",
+        "prompt": "dramatic spotlight on a lone subject in darkness",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_110_prompt_dramatic_spotlight_on_a_lone_subject_in_darkness_iclightmult_0.1_steps_50_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_259_prompt_cinematic_lighting_with_deep_shadows_and_highlights_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_usemask_False_alphamask_test_b_alpha.jpg.png",
+        "prompt": "cinematic lighting with deep shadows and highlights",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_259_prompt_cinematic_lighting_with_deep_shadows_and_highlights_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_320_prompt_cool_moonlight_illuminating_a_quiet_street_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_usemask_False_alphamask_spiral.png.png",
+        "prompt": "cool moonlight illuminating a quiet street",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_320_prompt_cool_moonlight_illuminating_a_quiet_street_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_212_prompt_candlelight_flickering_in_a_dark_room_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_usemask_False_alphamask_spiral.png.png",
+        "prompt": "candlelight flickering in a dark room",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_212_prompt_candlelight_flickering_in_a_dark_room_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_166_prompt_dramatic_spotlight_on_a_lone_subject_in_darkness_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_usemask_True_alphamask_spiral.png.png",
+        "prompt": "dramatic spotlight on a lone subject in darkness",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_166_prompt_dramatic_spotlight_on_a_lone_subject_in_darkness_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_150_prompt_cool_moonlight_illuminating_a_quiet_street_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_usemask_True_alphamask_spiral.png.png",
+        "prompt": "cool moonlight illuminating a quiet street",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_150_prompt_cool_moonlight_illuminating_a_quiet_street_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_326_prompt_fluorescent_office_lighting,_sterile_and_even_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_usemask_True_alphamask_spiral.png.png",
+        "prompt": "fluorescent office lighting, sterile and even",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_326_prompt_fluorescent_office_lighting,_sterile_and_even_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_318_prompt_cool_moonlight_illuminating_a_quiet_street_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_usemask_True_alphamask_spiral.png.png",
+        "prompt": "cool moonlight illuminating a quiet street",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_318_prompt_cool_moonlight_illuminating_a_quiet_street_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_335_prompt_dramatic_spotlight_on_a_lone_subject_in_darkness_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_usemask_False_alphamask_test_b_alpha.jpg.png",
+        "prompt": "dramatic spotlight on a lone subject in darkness",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_335_prompt_dramatic_spotlight_on_a_lone_subject_in_darkness_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_54_prompt_dramatic_spotlight_on_a_lone_subject_in_darkness_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_usemask_True_alphamask_spiral.png.png",
+        "prompt": "dramatic spotlight on a lone subject in darkness",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_54_prompt_dramatic_spotlight_on_a_lone_subject_in_darkness_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_260_prompt_cinematic_lighting_with_deep_shadows_and_highlights_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_usemask_False_alphamask_spiral.png.png",
+        "prompt": "cinematic lighting with deep shadows and highlights",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_260_prompt_cinematic_lighting_with_deep_shadows_and_highlights_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_324_prompt_candlelight_flickering_in_a_dark_room_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_usemask_False_alphamask_spiral.png.png",
+        "prompt": "candlelight flickering in a dark room",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_324_prompt_candlelight_flickering_in_a_dark_room_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_224_prompt_dramatic_spotlight_on_a_lone_subject_in_darkness_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_usemask_False_alphamask_spiral.png.png",
+        "prompt": "dramatic spotlight on a lone subject in darkness",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_224_prompt_dramatic_spotlight_on_a_lone_subject_in_darkness_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_280_prompt_dramatic_spotlight_on_a_lone_subject_in_darkness_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_usemask_False_alphamask_spiral.png.png",
+        "prompt": "dramatic spotlight on a lone subject in darkness",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_280_prompt_dramatic_spotlight_on_a_lone_subject_in_darkness_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_253_prompt_overcast_sky_providing_soft,_diffused_light_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_usemask_True_alphamask_test_b_alpha.jpg.png",
+        "prompt": "overcast sky providing soft, diffused light",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_253_prompt_overcast_sky_providing_soft,_diffused_light_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_158_prompt_fluorescent_office_lighting,_sterile_and_even_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_usemask_True_alphamask_spiral.png.png",
+        "prompt": "fluorescent office lighting, sterile and even",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_158_prompt_fluorescent_office_lighting,_sterile_and_even_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_116_prompt_sunshine_through_a_tropical_foreground_garden_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_usemask_False_alphamask_spiral.png.png",
+        "prompt": "sunshine through a tropical foreground garden",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_116_prompt_sunshine_through_a_tropical_foreground_garden_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_14_prompt_soft_ambient_light_through_sheer_curtains_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_usemask_True_alphamask_spiral.png.png",
+        "prompt": "soft ambient light through sheer curtains",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_14_prompt_soft_ambient_light_through_sheer_curtains_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_163_prompt_morning_sunrise_with_a_warm_glow_over_the_horizon_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_usemask_False_alphamask_test_b_alpha.jpg.png",
+        "prompt": "morning sunrise with a warm glow over the horizon",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_163_prompt_morning_sunrise_with_a_warm_glow_over_the_horizon_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_343_prompt_desaturated,_sepia,_white_iclightmult_0.15_steps_30_blend_0.3_weight_0.1_usemask_False_alphamask_test_b_alpha.jpg.png",
+        "prompt": "desaturated, sepia, white",
+        "iclight_multiplier": 0.15,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_343_prompt_desaturated,_sepia,_white_iclightmult_0.15_steps_30_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_283_prompt_sunshine_through_a_tropical_foreground_garden_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_usemask_False_alphamask_test_b_alpha.jpg.png",
+        "prompt": "sunshine through a tropical foreground garden",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_283_prompt_sunshine_through_a_tropical_foreground_garden_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_137_prompt_moody_low-light_indoors_with_warm_lamps_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_usemask_True_alphamask_test_b_alpha.jpg.png",
+        "prompt": "moody low-light indoors with warm lamps",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_137_prompt_moody_low-light_indoors_with_warm_lamps_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_139_prompt_moody_low-light_indoors_with_warm_lamps_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_usemask_False_alphamask_test_b_alpha.jpg.png",
+        "prompt": "moody low-light indoors with warm lamps",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_139_prompt_moody_low-light_indoors_with_warm_lamps_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_108_prompt_morning_sunrise_with_a_warm_glow_over_the_horizon_iclightmult_0.1_steps_50_blend_0.3_weight_0.1_usemask_False_alphamask_spiral.png.png",
+        "prompt": "morning sunrise with a warm glow over the horizon",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_108_prompt_morning_sunrise_with_a_warm_glow_over_the_horizon_iclightmult_0.1_steps_50_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_94_prompt_cool_moonlight_illuminating_a_quiet_street_iclightmult_0.1_steps_50_blend_0.3_weight_0.1_usemask_True_alphamask_spiral.png.png",
+        "prompt": "cool moonlight illuminating a quiet street",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_94_prompt_cool_moonlight_illuminating_a_quiet_street_iclightmult_0.1_steps_50_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_141_prompt_overcast_sky_providing_soft,_diffused_light_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_usemask_True_alphamask_test_b_alpha.jpg.png",
+        "prompt": "overcast sky providing soft, diffused light",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_141_prompt_overcast_sky_providing_soft,_diffused_light_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_120_prompt_desaturated,_sepia,_white_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_usemask_False_alphamask_spiral.png.png",
+        "prompt": "desaturated, sepia, white",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_120_prompt_desaturated,_sepia,_white_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_254_prompt_overcast_sky_providing_soft,_diffused_light_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_usemask_True_alphamask_spiral.png.png",
+        "prompt": "overcast sky providing soft, diffused light",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_254_prompt_overcast_sky_providing_soft,_diffused_light_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_168_prompt_dramatic_spotlight_on_a_lone_subject_in_darkness_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_usemask_False_alphamask_spiral.png.png",
+        "prompt": "dramatic spotlight on a lone subject in darkness",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_168_prompt_dramatic_spotlight_on_a_lone_subject_in_darkness_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_181_prompt_soft_ambient_light_through_sheer_curtains_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_usemask_True_alphamask_test_b_alpha.jpg.png",
+        "prompt": "soft ambient light through sheer curtains",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_181_prompt_soft_ambient_light_through_sheer_curtains_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_286_prompt_desaturated,_sepia,_white_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_usemask_True_alphamask_spiral.png.png",
+        "prompt": "desaturated, sepia, white",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_286_prompt_desaturated,_sepia,_white_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_190_prompt_harsh_midday_sun_casting_strong_shadows_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_usemask_True_alphamask_spiral.png.png",
+        "prompt": "harsh midday sun casting strong shadows",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_190_prompt_harsh_midday_sun_casting_strong_shadows_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_136_prompt_harsh_midday_sun_casting_strong_shadows_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_usemask_False_alphamask_spiral.png.png",
+        "prompt": "harsh midday sun casting strong shadows",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_136_prompt_harsh_midday_sun_casting_strong_shadows_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_100_prompt_candlelight_flickering_in_a_dark_room_iclightmult_0.1_steps_50_blend_0.3_weight_0.1_usemask_False_alphamask_spiral.png.png",
+        "prompt": "candlelight flickering in a dark room",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_100_prompt_candlelight_flickering_in_a_dark_room_iclightmult_0.1_steps_50_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_304_prompt_harsh_midday_sun_casting_strong_shadows_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_usemask_False_alphamask_spiral.png.png",
+        "prompt": "harsh midday sun casting strong shadows",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_304_prompt_harsh_midday_sun_casting_strong_shadows_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_345_prompt_studio_lighting,_high_contrast_iclightmult_0.15_steps_30_blend_0.3_weight_0.1_usemask_True_alphamask_test_b_alpha.jpg.png",
+        "prompt": "studio lighting, high contrast",
+        "iclight_multiplier": 0.15,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_345_prompt_studio_lighting,_high_contrast_iclightmult_0.15_steps_30_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_78_prompt_harsh_midday_sun_casting_strong_shadows_iclightmult_0.1_steps_50_blend_0.3_weight_0.1_usemask_True_alphamask_spiral.png.png",
+        "prompt": "harsh midday sun casting strong shadows",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_78_prompt_harsh_midday_sun_casting_strong_shadows_iclightmult_0.1_steps_50_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_160_prompt_fluorescent_office_lighting,_sterile_and_even_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_usemask_False_alphamask_spiral.png.png",
+        "prompt": "fluorescent office lighting, sterile and even",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_160_prompt_fluorescent_office_lighting,_sterile_and_even_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_334_prompt_dramatic_spotlight_on_a_lone_subject_in_darkness_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_usemask_True_alphamask_spiral.png.png",
+        "prompt": "dramatic spotlight on a lone subject in darkness",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_334_prompt_dramatic_spotlight_on_a_lone_subject_in_darkness_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_135_prompt_harsh_midday_sun_casting_strong_shadows_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_usemask_False_alphamask_test_b_alpha.jpg.png",
+        "prompt": "harsh midday sun casting strong shadows",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_135_prompt_harsh_midday_sun_casting_strong_shadows_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_346_prompt_studio_lighting,_high_contrast_iclightmult_0.15_steps_30_blend_0.3_weight_0.1_usemask_True_alphamask_spiral.png.png",
+        "prompt": "studio lighting, high contrast",
+        "iclight_multiplier": 0.15,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_346_prompt_studio_lighting,_high_contrast_iclightmult_0.15_steps_30_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_282_prompt_sunshine_through_a_tropical_foreground_garden_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_usemask_True_alphamask_spiral.png.png",
+        "prompt": "sunshine through a tropical foreground garden",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_282_prompt_sunshine_through_a_tropical_foreground_garden_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_338_prompt_sunshine_through_a_tropical_foreground_garden_iclightmult_0.15_steps_30_blend_0.3_weight_0.1_usemask_True_alphamask_spiral.png.png",
+        "prompt": "sunshine through a tropical foreground garden",
+        "iclight_multiplier": 0.15,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_338_prompt_sunshine_through_a_tropical_foreground_garden_iclightmult_0.15_steps_30_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_35_prompt_cinematic_lighting_with_deep_shadows_and_highlights_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_usemask_False_alphamask_test_b_alpha.jpg.png",
+        "prompt": "cinematic lighting with deep shadows and highlights",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_35_prompt_cinematic_lighting_with_deep_shadows_and_highlights_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_161_prompt_morning_sunrise_with_a_warm_glow_over_the_horizon_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_usemask_True_alphamask_test_b_alpha.jpg.png",
+        "prompt": "morning sunrise with a warm glow over the horizon",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_161_prompt_morning_sunrise_with_a_warm_glow_over_the_horizon_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_98_prompt_candlelight_flickering_in_a_dark_room_iclightmult_0.1_steps_50_blend_0.3_weight_0.1_usemask_True_alphamask_spiral.png.png",
+        "prompt": "candlelight flickering in a dark room",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_98_prompt_candlelight_flickering_in_a_dark_room_iclightmult_0.1_steps_50_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_169_prompt_sunshine_through_a_tropical_foreground_garden_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_usemask_True_alphamask_test_b_alpha.jpg.png",
+        "prompt": "sunshine through a tropical foreground garden",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_169_prompt_sunshine_through_a_tropical_foreground_garden_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_75_prompt_golden_hour_sunlight_filtering_through_trees_iclightmult_0.1_steps_50_blend_0.3_weight_0.1_usemask_False_alphamask_test_b_alpha.jpg.png",
+        "prompt": "golden hour sunlight filtering through trees",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_75_prompt_golden_hour_sunlight_filtering_through_trees_iclightmult_0.1_steps_50_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_331_prompt_morning_sunrise_with_a_warm_glow_over_the_horizon_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_usemask_False_alphamask_test_b_alpha.jpg.png",
+        "prompt": "morning sunrise with a warm glow over the horizon",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_331_prompt_morning_sunrise_with_a_warm_glow_over_the_horizon_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_121_prompt_studio_lighting,_high_contrast_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_usemask_True_alphamask_test_b_alpha.jpg.png",
+        "prompt": "studio lighting, high contrast",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_121_prompt_studio_lighting,_high_contrast_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_202_prompt_cinematic_lighting_with_deep_shadows_and_highlights_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_usemask_True_alphamask_spiral.png.png",
+        "prompt": "cinematic lighting with deep shadows and highlights",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_202_prompt_cinematic_lighting_with_deep_shadows_and_highlights_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_66_prompt_studio_lighting,_high_contrast_iclightmult_0.1_steps_50_blend_0.3_weight_0.1_usemask_True_alphamask_spiral.png.png",
+        "prompt": "studio lighting, high contrast",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_66_prompt_studio_lighting,_high_contrast_iclightmult_0.1_steps_50_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_251_prompt_moody_low-light_indoors_with_warm_lamps_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_usemask_False_alphamask_test_b_alpha.jpg.png",
+        "prompt": "moody low-light indoors with warm lamps",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_251_prompt_moody_low-light_indoors_with_warm_lamps_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_311_prompt_overcast_sky_providing_soft,_diffused_light_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_usemask_False_alphamask_test_b_alpha.jpg.png",
+        "prompt": "overcast sky providing soft, diffused light",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_311_prompt_overcast_sky_providing_soft,_diffused_light_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_245_prompt_harsh_midday_sun_casting_strong_shadows_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_usemask_True_alphamask_test_b_alpha.jpg.png",
+        "prompt": "harsh midday sun casting strong shadows",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_245_prompt_harsh_midday_sun_casting_strong_shadows_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_65_prompt_studio_lighting,_high_contrast_iclightmult_0.1_steps_50_blend_0.3_weight_0.1_usemask_True_alphamask_test_b_alpha.jpg.png",
+        "prompt": "studio lighting, high contrast",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_65_prompt_studio_lighting,_high_contrast_iclightmult_0.1_steps_50_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_298_prompt_golden_hour_sunlight_filtering_through_trees_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_usemask_True_alphamask_spiral.png.png",
+        "prompt": "golden hour sunlight filtering through trees",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_298_prompt_golden_hour_sunlight_filtering_through_trees_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_37_prompt_cool_moonlight_illuminating_a_quiet_street_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_usemask_True_alphamask_test_b_alpha.jpg.png",
+        "prompt": "cool moonlight illuminating a quiet street",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_37_prompt_cool_moonlight_illuminating_a_quiet_street_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_33_prompt_cinematic_lighting_with_deep_shadows_and_highlights_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_usemask_True_alphamask_test_b_alpha.jpg.png",
+        "prompt": "cinematic lighting with deep shadows and highlights",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_33_prompt_cinematic_lighting_with_deep_shadows_and_highlights_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_307_prompt_moody_low-light_indoors_with_warm_lamps_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_usemask_False_alphamask_test_b_alpha.jpg.png",
+        "prompt": "moody low-light indoors with warm lamps",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_307_prompt_moody_low-light_indoors_with_warm_lamps_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_203_prompt_cinematic_lighting_with_deep_shadows_and_highlights_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_usemask_False_alphamask_test_b_alpha.jpg.png",
+        "prompt": "cinematic lighting with deep shadows and highlights",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_203_prompt_cinematic_lighting_with_deep_shadows_and_highlights_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_115_prompt_sunshine_through_a_tropical_foreground_garden_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_usemask_False_alphamask_test_b_alpha.jpg.png",
+        "prompt": "sunshine through a tropical foreground garden",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_115_prompt_sunshine_through_a_tropical_foreground_garden_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_89_prompt_cinematic_lighting_with_deep_shadows_and_highlights_iclightmult_0.1_steps_50_blend_0.3_weight_0.1_usemask_True_alphamask_test_b_alpha.jpg.png",
+        "prompt": "cinematic lighting with deep shadows and highlights",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_89_prompt_cinematic_lighting_with_deep_shadows_and_highlights_iclightmult_0.1_steps_50_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_47_prompt_fluorescent_office_lighting,_sterile_and_even_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_usemask_False_alphamask_test_b_alpha.jpg.png",
+        "prompt": "fluorescent office lighting, sterile and even",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_47_prompt_fluorescent_office_lighting,_sterile_and_even_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_129_prompt_golden_hour_sunlight_filtering_through_trees_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_usemask_True_alphamask_test_b_alpha.jpg.png",
+        "prompt": "golden hour sunlight filtering through trees",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_129_prompt_golden_hour_sunlight_filtering_through_trees_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_189_prompt_harsh_midday_sun_casting_strong_shadows_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_usemask_True_alphamask_test_b_alpha.jpg.png",
+        "prompt": "harsh midday sun casting strong shadows",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_189_prompt_harsh_midday_sun_casting_strong_shadows_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_256_prompt_overcast_sky_providing_soft,_diffused_light_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_usemask_False_alphamask_spiral.png.png",
+        "prompt": "overcast sky providing soft, diffused light",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_256_prompt_overcast_sky_providing_soft,_diffused_light_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_303_prompt_harsh_midday_sun_casting_strong_shadows_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_usemask_False_alphamask_test_b_alpha.jpg.png",
+        "prompt": "harsh midday sun casting strong shadows",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_303_prompt_harsh_midday_sun_casting_strong_shadows_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_24_prompt_harsh_midday_sun_casting_strong_shadows_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_usemask_False_alphamask_spiral.png.png",
+        "prompt": "harsh midday sun casting strong shadows",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_24_prompt_harsh_midday_sun_casting_strong_shadows_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_42_prompt_candlelight_flickering_in_a_dark_room_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_usemask_True_alphamask_spiral.png.png",
+        "prompt": "candlelight flickering in a dark room",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_42_prompt_candlelight_flickering_in_a_dark_room_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_99_prompt_candlelight_flickering_in_a_dark_room_iclightmult_0.1_steps_50_blend_0.3_weight_0.1_usemask_False_alphamask_test_b_alpha.jpg.png",
+        "prompt": "candlelight flickering in a dark room",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_99_prompt_candlelight_flickering_in_a_dark_room_iclightmult_0.1_steps_50_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_177_prompt_studio_lighting,_high_contrast_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_usemask_True_alphamask_test_b_alpha.jpg.png",
+        "prompt": "studio lighting, high contrast",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_177_prompt_studio_lighting,_high_contrast_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_231_prompt_desaturated,_sepia,_white_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_usemask_False_alphamask_test_b_alpha.jpg.png",
+        "prompt": "desaturated, sepia, white",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_231_prompt_desaturated,_sepia,_white_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_241_prompt_golden_hour_sunlight_filtering_through_trees_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_usemask_True_alphamask_test_b_alpha.jpg.png",
+        "prompt": "golden hour sunlight filtering through trees",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_241_prompt_golden_hour_sunlight_filtering_through_trees_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_7_prompt_desaturated,_sepia,_white_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_usemask_False_alphamask_test_b_alpha.jpg.png",
+        "prompt": "desaturated, sepia, white",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_7_prompt_desaturated,_sepia,_white_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_165_prompt_dramatic_spotlight_on_a_lone_subject_in_darkness_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_usemask_True_alphamask_test_b_alpha.jpg.png",
+        "prompt": "dramatic spotlight on a lone subject in darkness",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_165_prompt_dramatic_spotlight_on_a_lone_subject_in_darkness_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_249_prompt_moody_low-light_indoors_with_warm_lamps_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_usemask_True_alphamask_test_b_alpha.jpg.png",
+        "prompt": "moody low-light indoors with warm lamps",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_249_prompt_moody_low-light_indoors_with_warm_lamps_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_30_prompt_overcast_sky_providing_soft,_diffused_light_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_usemask_True_alphamask_spiral.png.png",
+        "prompt": "overcast sky providing soft, diffused light",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_30_prompt_overcast_sky_providing_soft,_diffused_light_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_336_prompt_dramatic_spotlight_on_a_lone_subject_in_darkness_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_usemask_False_alphamask_spiral.png.png",
+        "prompt": "dramatic spotlight on a lone subject in darkness",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_336_prompt_dramatic_spotlight_on_a_lone_subject_in_darkness_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_333_prompt_dramatic_spotlight_on_a_lone_subject_in_darkness_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_usemask_True_alphamask_test_b_alpha.jpg.png",
+        "prompt": "dramatic spotlight on a lone subject in darkness",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_333_prompt_dramatic_spotlight_on_a_lone_subject_in_darkness_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_82_prompt_moody_low-light_indoors_with_warm_lamps_iclightmult_0.1_steps_50_blend_0.3_weight_0.1_usemask_True_alphamask_spiral.png.png",
+        "prompt": "moody low-light indoors with warm lamps",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_82_prompt_moody_low-light_indoors_with_warm_lamps_iclightmult_0.1_steps_50_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_19_prompt_golden_hour_sunlight_filtering_through_trees_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_usemask_False_alphamask_test_b_alpha.jpg.png",
+        "prompt": "golden hour sunlight filtering through trees",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_19_prompt_golden_hour_sunlight_filtering_through_trees_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_40_prompt_cool_moonlight_illuminating_a_quiet_street_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_usemask_False_alphamask_spiral.png.png",
+        "prompt": "cool moonlight illuminating a quiet street",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_40_prompt_cool_moonlight_illuminating_a_quiet_street_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_243_prompt_golden_hour_sunlight_filtering_through_trees_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_usemask_False_alphamask_test_b_alpha.jpg.png",
+        "prompt": "golden hour sunlight filtering through trees",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_243_prompt_golden_hour_sunlight_filtering_through_trees_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_313_prompt_cinematic_lighting_with_deep_shadows_and_highlights_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_usemask_True_alphamask_test_b_alpha.jpg.png",
+        "prompt": "cinematic lighting with deep shadows and highlights",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_313_prompt_cinematic_lighting_with_deep_shadows_and_highlights_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_38_prompt_cool_moonlight_illuminating_a_quiet_street_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_usemask_True_alphamask_spiral.png.png",
+        "prompt": "cool moonlight illuminating a quiet street",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_38_prompt_cool_moonlight_illuminating_a_quiet_street_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_90_prompt_cinematic_lighting_with_deep_shadows_and_highlights_iclightmult_0.1_steps_50_blend_0.3_weight_0.1_usemask_True_alphamask_spiral.png.png",
+        "prompt": "cinematic lighting with deep shadows and highlights",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_90_prompt_cinematic_lighting_with_deep_shadows_and_highlights_iclightmult_0.1_steps_50_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_321_prompt_candlelight_flickering_in_a_dark_room_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_usemask_True_alphamask_test_b_alpha.jpg.png",
+        "prompt": "candlelight flickering in a dark room",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_321_prompt_candlelight_flickering_in_a_dark_room_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_258_prompt_cinematic_lighting_with_deep_shadows_and_highlights_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_usemask_True_alphamask_spiral.png.png",
+        "prompt": "cinematic lighting with deep shadows and highlights",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_258_prompt_cinematic_lighting_with_deep_shadows_and_highlights_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_45_prompt_fluorescent_office_lighting,_sterile_and_even_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_usemask_True_alphamask_test_b_alpha.jpg.png",
+        "prompt": "fluorescent office lighting, sterile and even",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_45_prompt_fluorescent_office_lighting,_sterile_and_even_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_67_prompt_studio_lighting,_high_contrast_iclightmult_0.1_steps_50_blend_0.3_weight_0.1_usemask_False_alphamask_test_b_alpha.jpg.png",
+        "prompt": "studio lighting, high contrast",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_67_prompt_studio_lighting,_high_contrast_iclightmult_0.1_steps_50_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_300_prompt_golden_hour_sunlight_filtering_through_trees_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_usemask_False_alphamask_spiral.png.png",
+        "prompt": "golden hour sunlight filtering through trees",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_300_prompt_golden_hour_sunlight_filtering_through_trees_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_293_prompt_soft_ambient_light_through_sheer_curtains_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_usemask_True_alphamask_test_b_alpha.jpg.png",
+        "prompt": "soft ambient light through sheer curtains",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_293_prompt_soft_ambient_light_through_sheer_curtains_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_153_prompt_candlelight_flickering_in_a_dark_room_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_usemask_True_alphamask_test_b_alpha.jpg.png",
+        "prompt": "candlelight flickering in a dark room",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_153_prompt_candlelight_flickering_in_a_dark_room_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_69_prompt_soft_ambient_light_through_sheer_curtains_iclightmult_0.1_steps_50_blend_0.3_weight_0.1_usemask_True_alphamask_test_b_alpha.jpg.png",
+        "prompt": "soft ambient light through sheer curtains",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_69_prompt_soft_ambient_light_through_sheer_curtains_iclightmult_0.1_steps_50_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_257_prompt_cinematic_lighting_with_deep_shadows_and_highlights_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_usemask_True_alphamask_test_b_alpha.jpg.png",
+        "prompt": "cinematic lighting with deep shadows and highlights",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_257_prompt_cinematic_lighting_with_deep_shadows_and_highlights_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_55_prompt_dramatic_spotlight_on_a_lone_subject_in_darkness_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_usemask_False_alphamask_test_b_alpha.jpg.png",
+        "prompt": "dramatic spotlight on a lone subject in darkness",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_55_prompt_dramatic_spotlight_on_a_lone_subject_in_darkness_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_322_prompt_candlelight_flickering_in_a_dark_room_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_usemask_True_alphamask_spiral.png.png",
+        "prompt": "candlelight flickering in a dark room",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_322_prompt_candlelight_flickering_in_a_dark_room_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_271_prompt_fluorescent_office_lighting,_sterile_and_even_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_usemask_False_alphamask_test_b_alpha.jpg.png",
+        "prompt": "fluorescent office lighting, sterile and even",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_271_prompt_fluorescent_office_lighting,_sterile_and_even_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_178_prompt_studio_lighting,_high_contrast_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_usemask_True_alphamask_spiral.png.png",
+        "prompt": "studio lighting, high contrast",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_178_prompt_studio_lighting,_high_contrast_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_128_prompt_soft_ambient_light_through_sheer_curtains_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_usemask_False_alphamask_spiral.png.png",
+        "prompt": "soft ambient light through sheer curtains",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_128_prompt_soft_ambient_light_through_sheer_curtains_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_233_prompt_studio_lighting,_high_contrast_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_usemask_True_alphamask_test_b_alpha.jpg.png",
+        "prompt": "studio lighting, high contrast",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_233_prompt_studio_lighting,_high_contrast_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_340_prompt_sunshine_through_a_tropical_foreground_garden_iclightmult_0.15_steps_30_blend_0.3_weight_0.1_usemask_False_alphamask_spiral.png.png",
+        "prompt": "sunshine through a tropical foreground garden",
+        "iclight_multiplier": 0.15,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_340_prompt_sunshine_through_a_tropical_foreground_garden_iclightmult_0.15_steps_30_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_210_prompt_candlelight_flickering_in_a_dark_room_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_usemask_True_alphamask_spiral.png.png",
+        "prompt": "candlelight flickering in a dark room",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_210_prompt_candlelight_flickering_in_a_dark_room_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_218_prompt_morning_sunrise_with_a_warm_glow_over_the_horizon_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_usemask_True_alphamask_spiral.png.png",
+        "prompt": "morning sunrise with a warm glow over the horizon",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_218_prompt_morning_sunrise_with_a_warm_glow_over_the_horizon_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_25_prompt_moody_low-light_indoors_with_warm_lamps_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_usemask_True_alphamask_test_b_alpha.jpg.png",
+        "prompt": "moody low-light indoors with warm lamps",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_25_prompt_moody_low-light_indoors_with_warm_lamps_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_11_prompt_studio_lighting,_high_contrast_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_usemask_False_alphamask_test_b_alpha.jpg.png",
+        "prompt": "studio lighting, high contrast",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_11_prompt_studio_lighting,_high_contrast_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_16_prompt_soft_ambient_light_through_sheer_curtains_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_usemask_False_alphamask_spiral.png.png",
+        "prompt": "soft ambient light through sheer curtains",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_16_prompt_soft_ambient_light_through_sheer_curtains_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_56_prompt_dramatic_spotlight_on_a_lone_subject_in_darkness_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_usemask_False_alphamask_spiral.png.png",
+        "prompt": "dramatic spotlight on a lone subject in darkness",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_56_prompt_dramatic_spotlight_on_a_lone_subject_in_darkness_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_200_prompt_overcast_sky_providing_soft,_diffused_light_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_usemask_False_alphamask_spiral.png.png",
+        "prompt": "overcast sky providing soft, diffused light",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_200_prompt_overcast_sky_providing_soft,_diffused_light_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_285_prompt_desaturated,_sepia,_white_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_usemask_True_alphamask_test_b_alpha.jpg.png",
+        "prompt": "desaturated, sepia, white",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_285_prompt_desaturated,_sepia,_white_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_148_prompt_cinematic_lighting_with_deep_shadows_and_highlights_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_usemask_False_alphamask_spiral.png.png",
+        "prompt": "cinematic lighting with deep shadows and highlights",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_148_prompt_cinematic_lighting_with_deep_shadows_and_highlights_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_171_prompt_sunshine_through_a_tropical_foreground_garden_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_usemask_False_alphamask_test_b_alpha.jpg.png",
+        "prompt": "sunshine through a tropical foreground garden",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_171_prompt_sunshine_through_a_tropical_foreground_garden_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_43_prompt_candlelight_flickering_in_a_dark_room_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_usemask_False_alphamask_test_b_alpha.jpg.png",
+        "prompt": "candlelight flickering in a dark room",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_43_prompt_candlelight_flickering_in_a_dark_room_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_123_prompt_studio_lighting,_high_contrast_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_usemask_False_alphamask_test_b_alpha.jpg.png",
+        "prompt": "studio lighting, high contrast",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_123_prompt_studio_lighting,_high_contrast_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_213_prompt_fluorescent_office_lighting,_sterile_and_even_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_usemask_True_alphamask_test_b_alpha.jpg.png",
+        "prompt": "fluorescent office lighting, sterile and even",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_213_prompt_fluorescent_office_lighting,_sterile_and_even_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_273_prompt_morning_sunrise_with_a_warm_glow_over_the_horizon_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_usemask_True_alphamask_test_b_alpha.jpg.png",
+        "prompt": "morning sunrise with a warm glow over the horizon",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_273_prompt_morning_sunrise_with_a_warm_glow_over_the_horizon_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_339_prompt_sunshine_through_a_tropical_foreground_garden_iclightmult_0.15_steps_30_blend_0.3_weight_0.1_usemask_False_alphamask_test_b_alpha.jpg.png",
+        "prompt": "sunshine through a tropical foreground garden",
+        "iclight_multiplier": 0.15,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_339_prompt_sunshine_through_a_tropical_foreground_garden_iclightmult_0.15_steps_30_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_17_prompt_golden_hour_sunlight_filtering_through_trees_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_usemask_True_alphamask_test_b_alpha.jpg.png",
+        "prompt": "golden hour sunlight filtering through trees",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_17_prompt_golden_hour_sunlight_filtering_through_trees_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_274_prompt_morning_sunrise_with_a_warm_glow_over_the_horizon_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_usemask_True_alphamask_spiral.png.png",
+        "prompt": "morning sunrise with a warm glow over the horizon",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_274_prompt_morning_sunrise_with_a_warm_glow_over_the_horizon_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_296_prompt_soft_ambient_light_through_sheer_curtains_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_usemask_False_alphamask_spiral.png.png",
+        "prompt": "soft ambient light through sheer curtains",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_296_prompt_soft_ambient_light_through_sheer_curtains_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_3_prompt_sunshine_through_a_tropical_foreground_garden_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_usemask_False_alphamask_test_b_alpha.jpg.png",
+        "prompt": "sunshine through a tropical foreground garden",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_3_prompt_sunshine_through_a_tropical_foreground_garden_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_319_prompt_cool_moonlight_illuminating_a_quiet_street_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_usemask_False_alphamask_test_b_alpha.jpg.png",
+        "prompt": "cool moonlight illuminating a quiet street",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_319_prompt_cool_moonlight_illuminating_a_quiet_street_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_97_prompt_candlelight_flickering_in_a_dark_room_iclightmult_0.1_steps_50_blend_0.3_weight_0.1_usemask_True_alphamask_test_b_alpha.jpg.png",
+        "prompt": "candlelight flickering in a dark room",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_97_prompt_candlelight_flickering_in_a_dark_room_iclightmult_0.1_steps_50_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_277_prompt_dramatic_spotlight_on_a_lone_subject_in_darkness_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_usemask_True_alphamask_test_b_alpha.jpg.png",
+        "prompt": "dramatic spotlight on a lone subject in darkness",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_277_prompt_dramatic_spotlight_on_a_lone_subject_in_darkness_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_64_prompt_desaturated,_sepia,_white_iclightmult_0.1_steps_50_blend_0.3_weight_0.1_usemask_False_alphamask_spiral.png.png",
+        "prompt": "desaturated, sepia, white",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_64_prompt_desaturated,_sepia,_white_iclightmult_0.1_steps_50_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_261_prompt_cool_moonlight_illuminating_a_quiet_street_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_usemask_True_alphamask_test_b_alpha.jpg.png",
+        "prompt": "cool moonlight illuminating a quiet street",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_261_prompt_cool_moonlight_illuminating_a_quiet_street_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_342_prompt_desaturated,_sepia,_white_iclightmult_0.15_steps_30_blend_0.3_weight_0.1_usemask_True_alphamask_spiral.png.png",
+        "prompt": "desaturated, sepia, white",
+        "iclight_multiplier": 0.15,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_342_prompt_desaturated,_sepia,_white_iclightmult_0.15_steps_30_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_172_prompt_sunshine_through_a_tropical_foreground_garden_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_usemask_False_alphamask_spiral.png.png",
+        "prompt": "sunshine through a tropical foreground garden",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_172_prompt_sunshine_through_a_tropical_foreground_garden_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_323_prompt_candlelight_flickering_in_a_dark_room_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_usemask_False_alphamask_test_b_alpha.jpg.png",
+        "prompt": "candlelight flickering in a dark room",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_323_prompt_candlelight_flickering_in_a_dark_room_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_308_prompt_moody_low-light_indoors_with_warm_lamps_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_usemask_False_alphamask_spiral.png.png",
+        "prompt": "moody low-light indoors with warm lamps",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_308_prompt_moody_low-light_indoors_with_warm_lamps_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_46_prompt_fluorescent_office_lighting,_sterile_and_even_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_usemask_True_alphamask_spiral.png.png",
+        "prompt": "fluorescent office lighting, sterile and even",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_46_prompt_fluorescent_office_lighting,_sterile_and_even_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_316_prompt_cinematic_lighting_with_deep_shadows_and_highlights_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_usemask_False_alphamask_spiral.png.png",
+        "prompt": "cinematic lighting with deep shadows and highlights",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_316_prompt_cinematic_lighting_with_deep_shadows_and_highlights_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_183_prompt_soft_ambient_light_through_sheer_curtains_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_usemask_False_alphamask_test_b_alpha.jpg.png",
+        "prompt": "soft ambient light through sheer curtains",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_183_prompt_soft_ambient_light_through_sheer_curtains_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_192_prompt_harsh_midday_sun_casting_strong_shadows_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_usemask_False_alphamask_spiral.png.png",
+        "prompt": "harsh midday sun casting strong shadows",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_192_prompt_harsh_midday_sun_casting_strong_shadows_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_58_prompt_sunshine_through_a_tropical_foreground_garden_iclightmult_0.1_steps_50_blend_0.3_weight_0.1_usemask_True_alphamask_spiral.png.png",
+        "prompt": "sunshine through a tropical foreground garden",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_58_prompt_sunshine_through_a_tropical_foreground_garden_iclightmult_0.1_steps_50_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_325_prompt_fluorescent_office_lighting,_sterile_and_even_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_usemask_True_alphamask_test_b_alpha.jpg.png",
+        "prompt": "fluorescent office lighting, sterile and even",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_325_prompt_fluorescent_office_lighting,_sterile_and_even_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_228_prompt_sunshine_through_a_tropical_foreground_garden_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_usemask_False_alphamask_spiral.png.png",
+        "prompt": "sunshine through a tropical foreground garden",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_228_prompt_sunshine_through_a_tropical_foreground_garden_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_147_prompt_cinematic_lighting_with_deep_shadows_and_highlights_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_usemask_False_alphamask_test_b_alpha.jpg.png",
+        "prompt": "cinematic lighting with deep shadows and highlights",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_147_prompt_cinematic_lighting_with_deep_shadows_and_highlights_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_154_prompt_candlelight_flickering_in_a_dark_room_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_usemask_True_alphamask_spiral.png.png",
+        "prompt": "candlelight flickering in a dark room",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_154_prompt_candlelight_flickering_in_a_dark_room_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_198_prompt_overcast_sky_providing_soft,_diffused_light_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_usemask_True_alphamask_spiral.png.png",
+        "prompt": "overcast sky providing soft, diffused light",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_198_prompt_overcast_sky_providing_soft,_diffused_light_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_13_prompt_soft_ambient_light_through_sheer_curtains_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_usemask_True_alphamask_test_b_alpha.jpg.png",
+        "prompt": "soft ambient light through sheer curtains",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_13_prompt_soft_ambient_light_through_sheer_curtains_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_209_prompt_candlelight_flickering_in_a_dark_room_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_usemask_True_alphamask_test_b_alpha.jpg.png",
+        "prompt": "candlelight flickering in a dark room",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_209_prompt_candlelight_flickering_in_a_dark_room_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_118_prompt_desaturated,_sepia,_white_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_usemask_True_alphamask_spiral.png.png",
+        "prompt": "desaturated, sepia, white",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_118_prompt_desaturated,_sepia,_white_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_173_prompt_desaturated,_sepia,_white_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_usemask_True_alphamask_test_b_alpha.jpg.png",
+        "prompt": "desaturated, sepia, white",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_173_prompt_desaturated,_sepia,_white_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_145_prompt_cinematic_lighting_with_deep_shadows_and_highlights_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_usemask_True_alphamask_test_b_alpha.jpg.png",
+        "prompt": "cinematic lighting with deep shadows and highlights",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_145_prompt_cinematic_lighting_with_deep_shadows_and_highlights_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_32_prompt_overcast_sky_providing_soft,_diffused_light_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_usemask_False_alphamask_spiral.png.png",
+        "prompt": "overcast sky providing soft, diffused light",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_32_prompt_overcast_sky_providing_soft,_diffused_light_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_232_prompt_desaturated,_sepia,_white_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_usemask_False_alphamask_spiral.png.png",
+        "prompt": "desaturated, sepia, white",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_232_prompt_desaturated,_sepia,_white_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_119_prompt_desaturated,_sepia,_white_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_usemask_False_alphamask_test_b_alpha.jpg.png",
+        "prompt": "desaturated, sepia, white",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_119_prompt_desaturated,_sepia,_white_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_156_prompt_candlelight_flickering_in_a_dark_room_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_usemask_False_alphamask_spiral.png.png",
+        "prompt": "candlelight flickering in a dark room",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_156_prompt_candlelight_flickering_in_a_dark_room_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_244_prompt_golden_hour_sunlight_filtering_through_trees_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_usemask_False_alphamask_spiral.png.png",
+        "prompt": "golden hour sunlight filtering through trees",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_244_prompt_golden_hour_sunlight_filtering_through_trees_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_214_prompt_fluorescent_office_lighting,_sterile_and_even_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_usemask_True_alphamask_spiral.png.png",
+        "prompt": "fluorescent office lighting, sterile and even",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_214_prompt_fluorescent_office_lighting,_sterile_and_even_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_221_prompt_dramatic_spotlight_on_a_lone_subject_in_darkness_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_usemask_True_alphamask_test_b_alpha.jpg.png",
+        "prompt": "dramatic spotlight on a lone subject in darkness",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_221_prompt_dramatic_spotlight_on_a_lone_subject_in_darkness_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_53_prompt_dramatic_spotlight_on_a_lone_subject_in_darkness_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_usemask_True_alphamask_test_b_alpha.jpg.png",
+        "prompt": "dramatic spotlight on a lone subject in darkness",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_53_prompt_dramatic_spotlight_on_a_lone_subject_in_darkness_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_112_prompt_dramatic_spotlight_on_a_lone_subject_in_darkness_iclightmult_0.1_steps_50_blend_0.3_weight_0.1_usemask_False_alphamask_spiral.png.png",
+        "prompt": "dramatic spotlight on a lone subject in darkness",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_112_prompt_dramatic_spotlight_on_a_lone_subject_in_darkness_iclightmult_0.1_steps_50_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_337_prompt_sunshine_through_a_tropical_foreground_garden_iclightmult_0.15_steps_30_blend_0.3_weight_0.1_usemask_True_alphamask_test_b_alpha.jpg.png",
+        "prompt": "sunshine through a tropical foreground garden",
+        "iclight_multiplier": 0.15,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_337_prompt_sunshine_through_a_tropical_foreground_garden_iclightmult_0.15_steps_30_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_18_prompt_golden_hour_sunlight_filtering_through_trees_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_usemask_True_alphamask_spiral.png.png",
+        "prompt": "golden hour sunlight filtering through trees",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_18_prompt_golden_hour_sunlight_filtering_through_trees_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_9_prompt_studio_lighting,_high_contrast_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_usemask_True_alphamask_test_b_alpha.jpg.png",
+        "prompt": "studio lighting, high contrast",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_9_prompt_studio_lighting,_high_contrast_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_21_prompt_harsh_midday_sun_casting_strong_shadows_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_usemask_True_alphamask_test_b_alpha.jpg.png",
+        "prompt": "harsh midday sun casting strong shadows",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_21_prompt_harsh_midday_sun_casting_strong_shadows_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_329_prompt_morning_sunrise_with_a_warm_glow_over_the_horizon_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_usemask_True_alphamask_test_b_alpha.jpg.png",
+        "prompt": "morning sunrise with a warm glow over the horizon",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_329_prompt_morning_sunrise_with_a_warm_glow_over_the_horizon_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_341_prompt_desaturated,_sepia,_white_iclightmult_0.15_steps_30_blend_0.3_weight_0.1_usemask_True_alphamask_test_b_alpha.jpg.png",
+        "prompt": "desaturated, sepia, white",
+        "iclight_multiplier": 0.15,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_341_prompt_desaturated,_sepia,_white_iclightmult_0.15_steps_30_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_216_prompt_fluorescent_office_lighting,_sterile_and_even_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_usemask_False_alphamask_spiral.png.png",
+        "prompt": "fluorescent office lighting, sterile and even",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_216_prompt_fluorescent_office_lighting,_sterile_and_even_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_278_prompt_dramatic_spotlight_on_a_lone_subject_in_darkness_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_usemask_True_alphamask_spiral.png.png",
+        "prompt": "dramatic spotlight on a lone subject in darkness",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_278_prompt_dramatic_spotlight_on_a_lone_subject_in_darkness_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_222_prompt_dramatic_spotlight_on_a_lone_subject_in_darkness_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_usemask_True_alphamask_spiral.png.png",
+        "prompt": "dramatic spotlight on a lone subject in darkness",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_222_prompt_dramatic_spotlight_on_a_lone_subject_in_darkness_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_347_prompt_studio_lighting,_high_contrast_iclightmult_0.15_steps_30_blend_0.3_weight_0.1_usemask_False_alphamask_test_b_alpha.jpg.png",
+        "prompt": "studio lighting, high contrast",
+        "iclight_multiplier": 0.15,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_347_prompt_studio_lighting,_high_contrast_iclightmult_0.15_steps_30_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_306_prompt_moody_low-light_indoors_with_warm_lamps_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_usemask_True_alphamask_spiral.png.png",
+        "prompt": "moody low-light indoors with warm lamps",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_306_prompt_moody_low-light_indoors_with_warm_lamps_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_235_prompt_studio_lighting,_high_contrast_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_usemask_False_alphamask_test_b_alpha.jpg.png",
+        "prompt": "studio lighting, high contrast",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_235_prompt_studio_lighting,_high_contrast_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_349_prompt_soft_ambient_light_through_sheer_curtains_iclightmult_0.15_steps_30_blend_0.3_weight_0.1_usemask_True_alphamask_test_b_alpha.jpg.png",
+        "prompt": "soft ambient light through sheer curtains",
+        "iclight_multiplier": 0.15,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_349_prompt_soft_ambient_light_through_sheer_curtains_iclightmult_0.15_steps_30_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_34_prompt_cinematic_lighting_with_deep_shadows_and_highlights_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_usemask_True_alphamask_spiral.png.png",
+        "prompt": "cinematic lighting with deep shadows and highlights",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_34_prompt_cinematic_lighting_with_deep_shadows_and_highlights_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_131_prompt_golden_hour_sunlight_filtering_through_trees_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_usemask_False_alphamask_test_b_alpha.jpg.png",
+        "prompt": "golden hour sunlight filtering through trees",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_131_prompt_golden_hour_sunlight_filtering_through_trees_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_101_prompt_fluorescent_office_lighting,_sterile_and_even_iclightmult_0.1_steps_50_blend_0.3_weight_0.1_usemask_True_alphamask_test_b_alpha.jpg.png",
+        "prompt": "fluorescent office lighting, sterile and even",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_101_prompt_fluorescent_office_lighting,_sterile_and_even_iclightmult_0.1_steps_50_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_270_prompt_fluorescent_office_lighting,_sterile_and_even_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_usemask_True_alphamask_spiral.png.png",
+        "prompt": "fluorescent office lighting, sterile and even",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_270_prompt_fluorescent_office_lighting,_sterile_and_even_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_205_prompt_cool_moonlight_illuminating_a_quiet_street_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_usemask_True_alphamask_test_b_alpha.jpg.png",
+        "prompt": "cool moonlight illuminating a quiet street",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_205_prompt_cool_moonlight_illuminating_a_quiet_street_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_85_prompt_overcast_sky_providing_soft,_diffused_light_iclightmult_0.1_steps_50_blend_0.3_weight_0.1_usemask_True_alphamask_test_b_alpha.jpg.png",
+        "prompt": "overcast sky providing soft, diffused light",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_85_prompt_overcast_sky_providing_soft,_diffused_light_iclightmult_0.1_steps_50_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_297_prompt_golden_hour_sunlight_filtering_through_trees_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_usemask_True_alphamask_test_b_alpha.jpg.png",
+        "prompt": "golden hour sunlight filtering through trees",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_297_prompt_golden_hour_sunlight_filtering_through_trees_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_314_prompt_cinematic_lighting_with_deep_shadows_and_highlights_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_usemask_True_alphamask_spiral.png.png",
+        "prompt": "cinematic lighting with deep shadows and highlights",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_314_prompt_cinematic_lighting_with_deep_shadows_and_highlights_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_229_prompt_desaturated,_sepia,_white_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_usemask_True_alphamask_test_b_alpha.jpg.png",
+        "prompt": "desaturated, sepia, white",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_229_prompt_desaturated,_sepia,_white_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_302_prompt_harsh_midday_sun_casting_strong_shadows_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_usemask_True_alphamask_spiral.png.png",
+        "prompt": "harsh midday sun casting strong shadows",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_302_prompt_harsh_midday_sun_casting_strong_shadows_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_238_prompt_soft_ambient_light_through_sheer_curtains_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_usemask_True_alphamask_spiral.png.png",
+        "prompt": "soft ambient light through sheer curtains",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_238_prompt_soft_ambient_light_through_sheer_curtains_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_204_prompt_cinematic_lighting_with_deep_shadows_and_highlights_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_usemask_False_alphamask_spiral.png.png",
+        "prompt": "cinematic lighting with deep shadows and highlights",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_204_prompt_cinematic_lighting_with_deep_shadows_and_highlights_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_211_prompt_candlelight_flickering_in_a_dark_room_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_usemask_False_alphamask_test_b_alpha.jpg.png",
+        "prompt": "candlelight flickering in a dark room",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_211_prompt_candlelight_flickering_in_a_dark_room_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_92_prompt_cinematic_lighting_with_deep_shadows_and_highlights_iclightmult_0.1_steps_50_blend_0.3_weight_0.1_usemask_False_alphamask_spiral.png.png",
+        "prompt": "cinematic lighting with deep shadows and highlights",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_92_prompt_cinematic_lighting_with_deep_shadows_and_highlights_iclightmult_0.1_steps_50_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_144_prompt_overcast_sky_providing_soft,_diffused_light_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_usemask_False_alphamask_spiral.png.png",
+        "prompt": "overcast sky providing soft, diffused light",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_144_prompt_overcast_sky_providing_soft,_diffused_light_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_39_prompt_cool_moonlight_illuminating_a_quiet_street_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_usemask_False_alphamask_test_b_alpha.jpg.png",
+        "prompt": "cool moonlight illuminating a quiet street",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_39_prompt_cool_moonlight_illuminating_a_quiet_street_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_327_prompt_fluorescent_office_lighting,_sterile_and_even_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_usemask_False_alphamask_test_b_alpha.jpg.png",
+        "prompt": "fluorescent office lighting, sterile and even",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_327_prompt_fluorescent_office_lighting,_sterile_and_even_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_57_prompt_sunshine_through_a_tropical_foreground_garden_iclightmult_0.1_steps_50_blend_0.3_weight_0.1_usemask_True_alphamask_test_b_alpha.jpg.png",
+        "prompt": "sunshine through a tropical foreground garden",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_57_prompt_sunshine_through_a_tropical_foreground_garden_iclightmult_0.1_steps_50_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_117_prompt_desaturated,_sepia,_white_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_usemask_True_alphamask_test_b_alpha.jpg.png",
+        "prompt": "desaturated, sepia, white",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_117_prompt_desaturated,_sepia,_white_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_52_prompt_morning_sunrise_with_a_warm_glow_over_the_horizon_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_usemask_False_alphamask_spiral.png.png",
+        "prompt": "morning sunrise with a warm glow over the horizon",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_52_prompt_morning_sunrise_with_a_warm_glow_over_the_horizon_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_344_prompt_desaturated,_sepia,_white_iclightmult_0.15_steps_30_blend_0.3_weight_0.1_usemask_False_alphamask_spiral.png.png",
+        "prompt": "desaturated, sepia, white",
+        "iclight_multiplier": 0.15,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_344_prompt_desaturated,_sepia,_white_iclightmult_0.15_steps_30_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_223_prompt_dramatic_spotlight_on_a_lone_subject_in_darkness_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_usemask_False_alphamask_test_b_alpha.jpg.png",
+        "prompt": "dramatic spotlight on a lone subject in darkness",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_223_prompt_dramatic_spotlight_on_a_lone_subject_in_darkness_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_193_prompt_moody_low-light_indoors_with_warm_lamps_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_usemask_True_alphamask_test_b_alpha.jpg.png",
+        "prompt": "moody low-light indoors with warm lamps",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_193_prompt_moody_low-light_indoors_with_warm_lamps_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_77_prompt_harsh_midday_sun_casting_strong_shadows_iclightmult_0.1_steps_50_blend_0.3_weight_0.1_usemask_True_alphamask_test_b_alpha.jpg.png",
+        "prompt": "harsh midday sun casting strong shadows",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_77_prompt_harsh_midday_sun_casting_strong_shadows_iclightmult_0.1_steps_50_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_262_prompt_cool_moonlight_illuminating_a_quiet_street_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_usemask_True_alphamask_spiral.png.png",
+        "prompt": "cool moonlight illuminating a quiet street",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_262_prompt_cool_moonlight_illuminating_a_quiet_street_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_328_prompt_fluorescent_office_lighting,_sterile_and_even_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_usemask_False_alphamask_spiral.png.png",
+        "prompt": "fluorescent office lighting, sterile and even",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_328_prompt_fluorescent_office_lighting,_sterile_and_even_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_265_prompt_candlelight_flickering_in_a_dark_room_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_usemask_True_alphamask_test_b_alpha.jpg.png",
+        "prompt": "candlelight flickering in a dark room",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_265_prompt_candlelight_flickering_in_a_dark_room_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_134_prompt_harsh_midday_sun_casting_strong_shadows_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_usemask_True_alphamask_spiral.png.png",
+        "prompt": "harsh midday sun casting strong shadows",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_134_prompt_harsh_midday_sun_casting_strong_shadows_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_312_prompt_overcast_sky_providing_soft,_diffused_light_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_usemask_False_alphamask_spiral.png.png",
+        "prompt": "overcast sky providing soft, diffused light",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_312_prompt_overcast_sky_providing_soft,_diffused_light_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_185_prompt_golden_hour_sunlight_filtering_through_trees_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_usemask_True_alphamask_test_b_alpha.jpg.png",
+        "prompt": "golden hour sunlight filtering through trees",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_185_prompt_golden_hour_sunlight_filtering_through_trees_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_279_prompt_dramatic_spotlight_on_a_lone_subject_in_darkness_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_usemask_False_alphamask_test_b_alpha.jpg.png",
+        "prompt": "dramatic spotlight on a lone subject in darkness",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_279_prompt_dramatic_spotlight_on_a_lone_subject_in_darkness_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_159_prompt_fluorescent_office_lighting,_sterile_and_even_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_usemask_False_alphamask_test_b_alpha.jpg.png",
+        "prompt": "fluorescent office lighting, sterile and even",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_159_prompt_fluorescent_office_lighting,_sterile_and_even_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_157_prompt_fluorescent_office_lighting,_sterile_and_even_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_usemask_True_alphamask_test_b_alpha.jpg.png",
+        "prompt": "fluorescent office lighting, sterile and even",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_157_prompt_fluorescent_office_lighting,_sterile_and_even_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_268_prompt_candlelight_flickering_in_a_dark_room_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_usemask_False_alphamask_spiral.png.png",
+        "prompt": "candlelight flickering in a dark room",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_268_prompt_candlelight_flickering_in_a_dark_room_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_310_prompt_overcast_sky_providing_soft,_diffused_light_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_usemask_True_alphamask_spiral.png.png",
+        "prompt": "overcast sky providing soft, diffused light",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_310_prompt_overcast_sky_providing_soft,_diffused_light_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_86_prompt_overcast_sky_providing_soft,_diffused_light_iclightmult_0.1_steps_50_blend_0.3_weight_0.1_usemask_True_alphamask_spiral.png.png",
+        "prompt": "overcast sky providing soft, diffused light",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_86_prompt_overcast_sky_providing_soft,_diffused_light_iclightmult_0.1_steps_50_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_50_prompt_morning_sunrise_with_a_warm_glow_over_the_horizon_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_usemask_True_alphamask_spiral.png.png",
+        "prompt": "morning sunrise with a warm glow over the horizon",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_50_prompt_morning_sunrise_with_a_warm_glow_over_the_horizon_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_281_prompt_sunshine_through_a_tropical_foreground_garden_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_usemask_True_alphamask_test_b_alpha.jpg.png",
+        "prompt": "sunshine through a tropical foreground garden",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_281_prompt_sunshine_through_a_tropical_foreground_garden_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_74_prompt_golden_hour_sunlight_filtering_through_trees_iclightmult_0.1_steps_50_blend_0.3_weight_0.1_usemask_True_alphamask_spiral.png.png",
+        "prompt": "golden hour sunlight filtering through trees",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_74_prompt_golden_hour_sunlight_filtering_through_trees_iclightmult_0.1_steps_50_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_219_prompt_morning_sunrise_with_a_warm_glow_over_the_horizon_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_usemask_False_alphamask_test_b_alpha.jpg.png",
+        "prompt": "morning sunrise with a warm glow over the horizon",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_219_prompt_morning_sunrise_with_a_warm_glow_over_the_horizon_iclightmult_0.1_steps_50_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_125_prompt_soft_ambient_light_through_sheer_curtains_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_usemask_True_alphamask_test_b_alpha.jpg.png",
+        "prompt": "soft ambient light through sheer curtains",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_125_prompt_soft_ambient_light_through_sheer_curtains_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_20_prompt_golden_hour_sunlight_filtering_through_trees_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_usemask_False_alphamask_spiral.png.png",
+        "prompt": "golden hour sunlight filtering through trees",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_20_prompt_golden_hour_sunlight_filtering_through_trees_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_142_prompt_overcast_sky_providing_soft,_diffused_light_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_usemask_True_alphamask_spiral.png.png",
+        "prompt": "overcast sky providing soft, diffused light",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_142_prompt_overcast_sky_providing_soft,_diffused_light_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_41_prompt_candlelight_flickering_in_a_dark_room_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_usemask_True_alphamask_test_b_alpha.jpg.png",
+        "prompt": "candlelight flickering in a dark room",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_41_prompt_candlelight_flickering_in_a_dark_room_iclightmult_0.1_steps_30_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_84_prompt_moody_low-light_indoors_with_warm_lamps_iclightmult_0.1_steps_50_blend_0.3_weight_0.1_usemask_False_alphamask_spiral.png.png",
+        "prompt": "moody low-light indoors with warm lamps",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.1,
+        "ico_filename": "./sweep_outputs/sweep_84_prompt_moody_low-light_indoors_with_warm_lamps_iclightmult_0.1_steps_50_blend_0.3_weight_0.1_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_252_prompt_moody_low-light_indoors_with_warm_lamps_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_usemask_False_alphamask_spiral.png.png",
+        "prompt": "moody low-light indoors with warm lamps",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_252_prompt_moody_low-light_indoors_with_warm_lamps_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_287_prompt_desaturated,_sepia,_white_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_usemask_False_alphamask_test_b_alpha.jpg.png",
+        "prompt": "desaturated, sepia, white",
+        "iclight_multiplier": 0.1,
+        "steps": 50,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_287_prompt_desaturated,_sepia,_white_iclightmult_0.1_steps_50_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_247_prompt_harsh_midday_sun_casting_strong_shadows_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_usemask_False_alphamask_test_b_alpha.jpg.png",
+        "prompt": "harsh midday sun casting strong shadows",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_247_prompt_harsh_midday_sun_casting_strong_shadows_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_264_prompt_cool_moonlight_illuminating_a_quiet_street_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_usemask_False_alphamask_spiral.png.png",
+        "prompt": "cool moonlight illuminating a quiet street",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.5,
+        "ico_filename": "./sweep_outputs/sweep_264_prompt_cool_moonlight_illuminating_a_quiet_street_iclightmult_0.1_steps_30_blend_0.3_weight_0.5_ico.png"
+    },
+    {
+        "filename": "./sweep_outputs/sweep_152_prompt_cool_moonlight_illuminating_a_quiet_street_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_usemask_False_alphamask_spiral.png.png",
+        "prompt": "cool moonlight illuminating a quiet street",
+        "iclight_multiplier": 0.1,
+        "steps": 30,
+        "blend": 0.3,
+        "weight": 0.3,
+        "ico_filename": "./sweep_outputs/sweep_152_prompt_cool_moonlight_illuminating_a_quiet_street_iclightmult_0.1_steps_30_blend_0.3_weight_0.3_ico.png"
+    }
+]

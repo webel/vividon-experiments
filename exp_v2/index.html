@@ -1,0 +1,161 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script src="https://unpkg.com/@cloudfour/image-compare/dist/index.min.js"></script>
+
+    <title>Relighting Sweeps Gallery</title>
+    <style>
+      :root {
+        --primary-font: Arial, sans-serif;
+        --background-color: #f0f0f0;
+        --card-background: #fff;
+        --text-color: #333;
+        --shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      }
+
+      image-compare {
+        --thumb-size: clamp(1em, 6vmin, 2em);
+        --thumb-background-color: hsla(0, 0%, 100%, 0.9);
+        --thumb-background-image: url('data:image/svg+xml;utf8,<svg viewbox="0 0 60 60"  width="60" height="60" xmlns="http://www.w3.org/2000/svg"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="4" d="M20 20 L10 30 L20 40"/><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="4" d="M40 20 L50 30 L40 40"/></svg>');
+        --thumb-radius: 50%;
+        --thumb-border-color: hsla(0, 0%, 0%, 0.9);
+        --thumb-border-size: 2px;
+
+        --focus-width: var(--thumb-border-size);
+        --focus-color: hsl(200, 100%, 80%);
+
+        --border-width: 2px;
+        --border-color: hsla(0, 0%, 0%, 0.9);
+      }
+
+      body {
+        font-family: var(--primary-font);
+        background-color: var(--background-color);
+        margin: 0;
+        padding: 0;
+      }
+
+      h1 {
+        text-align: center;
+        margin: 20px 0;
+      }
+
+      section {
+        padding: 20px;
+        text-align: center;
+      }
+
+      .gallery {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(450px, 1fr));
+        gap: 20px;
+        padding: 20px;
+      }
+
+      .item {
+        background-color: var(--card-background);
+        padding: 10px;
+        border-radius: 8px;
+        box-shadow: var(--shadow);
+        text-align: center;
+        transition:
+          transform 0.3s ease,
+          z-index 0.3s ease;
+        cursor: pointer;
+      }
+
+      .item.enlarged {
+        grid-column: span 2;
+        grid-row: span 2;
+        z-index: 10;
+      }
+
+      img {
+        max-width: 100%;
+        border-radius: 8px;
+      }
+
+      .caption {
+        margin-top: 10px;
+        font-size: 14px;
+        color: var(--text-color);
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Relighting Sweeps Gallery</h1>
+    <section>
+      <p>
+        This gallery showcases the results of the relighting sweeps experiment.
+        Each image is a comparison between the main relit output and its
+        corresponding icLight transformation.
+      </p>
+      <b>Double-click an image to enlarge it.</b>
+    </section>
+    <div class="gallery" id="gallery"></div>
+
+    <script>
+      fetch("images.json")
+        .then((response) => response.json())
+        .then((images) => {
+          const gallery = document.getElementById("gallery");
+
+          images.forEach((img) => {
+            if (!img.ico_filename) return; // Skip if no _ico version exists
+
+            const container = document.createElement("div");
+            container.className = "item";
+
+            const item = document.createElement("image-compare");
+
+            const img1 = document.createElement("img");
+            img1.setAttribute("slot", "image-1");
+            img1.src = img.filename;
+            img1.alt = img.prompt;
+            img1.loading = "lazy";
+
+            const img2 = document.createElement("img");
+            img2.setAttribute("slot", "image-2");
+            img2.src = img.ico_filename;
+            img2.alt = `${img.prompt} - ICO`;
+            img2.loading = "lazy";
+
+            item.appendChild(img1);
+            item.appendChild(img2);
+
+            const caption = document.createElement("div");
+            caption.className = "caption";
+            caption.innerHTML = `Prompt: ${img.prompt}<br>Steps: ${img.steps} | Blend: ${img.blend} | Weight: ${img.weight} | icLight Multiplier: ${img.iclight_multiplier}`;
+
+            container.appendChild(item);
+            container.appendChild(caption);
+            gallery.appendChild(container);
+          });
+        })
+        .catch((err) => console.error("Failed to load images.json:", err));
+
+      function changeEnlargedItem(direction) {
+        const items = Array.from(document.querySelectorAll(".item"));
+        const current = items.findIndex((item) =>
+          item.classList.contains("enlarged"),
+        );
+        if (current !== -1) items[current].classList.remove("enlarged");
+        let next = (current + direction + items.length) % items.length;
+        items[next].classList.add("enlarged");
+        items[next].scrollIntoView({ block: "center" });
+      }
+
+      document.getElementById("gallery").addEventListener("dblclick", (e) => {
+        const item = e.target.closest(".item");
+        if (item) item.classList.toggle("enlarged");
+      });
+
+      document.addEventListener("keydown", (e) => {
+        if (e.key === "ArrowRight") changeEnlargedItem(1);
+        if (e.key === "ArrowLeft") changeEnlargedItem(-1);
+      });
+    </script>
+  </body>
+</html>
