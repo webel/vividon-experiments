@@ -13,6 +13,7 @@
         --card-background: #fff;
         --text-color: #333;
         --shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        --accent-color: #3498db;
       }
 
       image-compare {
@@ -90,6 +91,10 @@
         z-index: 10;
       }
 
+      .item.hidden {
+        display: none;
+      }
+
       img {
         max-width: 100%;
         border-radius: 8px;
@@ -99,6 +104,87 @@
         margin-top: 10px;
         font-size: 14px;
         color: var(--text-color);
+      }
+
+      /* Filter styles */
+      .filter-container {
+        background-color: var(--card-background);
+        padding: 15px;
+        border-radius: 8px;
+        box-shadow: var(--shadow);
+        margin: 20px auto;
+        max-width: 1200px;
+      }
+
+      .filter-title {
+        margin-top: 0;
+        margin-bottom: 15px;
+        font-size: 1.2rem;
+        color: var(--text-color);
+      }
+
+      .filter-section {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 15px;
+        margin-bottom: 15px;
+      }
+
+      .filter-group {
+        min-width: 200px;
+        margin-bottom: 10px;
+      }
+
+      .filter-group-title {
+        font-weight: bold;
+        margin-bottom: 5px;
+        display: block;
+      }
+
+      .filter-options {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 8px;
+      }
+
+      .filter-checkbox-label {
+        display: flex;
+        align-items: center;
+        font-size: 14px;
+        cursor: pointer;
+        padding: 4px 8px;
+        border-radius: 4px;
+        background-color: #e9e9e9;
+        transition: background-color 0.2s;
+      }
+
+      .filter-checkbox-label:hover {
+        background-color: #d9d9d9;
+      }
+
+      .filter-checkbox-label input {
+        margin-right: 5px;
+      }
+
+      .filter-buttons {
+        display: flex;
+        justify-content: center;
+        gap: 10px;
+        margin-top: 15px;
+      }
+
+      .filter-button {
+        padding: 8px 16px;
+        background-color: var(--accent-color);
+        color: white;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+        transition: background-color 0.2s;
+      }
+
+      .filter-button:hover {
+        background-color: #2980b9;
       }
     </style>
   </head>
@@ -112,78 +198,266 @@
       </p>
       <b>Double-click an image to enlarge it.</b>
     </section>
+
+    <!-- Filter Section -->
+    <div class="filter-container">
+      <h3 class="filter-title">Filter Images</h3>
+      <div id="filter-controls" class="filter-section">
+        <!-- Filter groups will be dynamically added here -->
+      </div>
+      <div class="filter-buttons">
+        <button id="apply-filters" class="filter-button">Apply Filters</button>
+        <button id="reset-filters" class="filter-button">Reset Filters</button>
+      </div>
+    </div>
+
     <div id="gallery"></div>
 
     <script>
+      // Global variables to store available filter options
+      const filterOptions = {
+        steps: new Set(),
+        blend: new Set(),
+        weight: new Set(),
+        iclight_multiplier: new Set(),
+        alphamask: new Set(),
+        usemask: new Set(["true", "false"]),
+      };
+
+      // Store all images for filtering
+      let allImages = [];
+
       fetch("images.json")
         .then((response) => response.json())
         .then((images) => {
-          const gallery = document.getElementById("gallery");
-          const groupedImages = {};
+          allImages = images;
 
-          // Group images by prompt
+          // Extract unique filter values
           images.forEach((img) => {
             if (!img.ico_filename) return; // Skip if no _ico version exists
 
-            if (!groupedImages[img.prompt]) {
-              groupedImages[img.prompt] = [];
-            }
-            groupedImages[img.prompt].push(img);
+            filterOptions.steps.add(img.steps.toString());
+            filterOptions.blend.add(img.blend.toString());
+            filterOptions.weight.add(img.weight.toString());
+            filterOptions.iclight_multiplier.add(
+              img.iclight_multiplier.toString(),
+            );
+            if (img.alphamask)
+              filterOptions.alphamask.add(img.alphamask.toString());
           });
 
-          // Create sections for each prompt
-          Object.entries(groupedImages).forEach(([prompt, imgList]) => {
-            const section = document.createElement("div");
-            section.className = "gallery-section";
+          // Create filter controls
+          createFilterControls();
 
-            const header = document.createElement("h2");
-            header.textContent = prompt;
-            section.appendChild(header);
-
-            const grid = document.createElement("div");
-            grid.className = "gallery";
-
-            imgList.forEach((img) => {
-              const container = document.createElement("div");
-              container.className = "item";
-
-              const item = document.createElement("image-compare");
-
-              const img1 = document.createElement("img");
-              img1.setAttribute("slot", "image-1");
-              img1.src = img.filename;
-              img1.alt = img.prompt;
-              img1.loading = "lazy";
-
-              const img2 = document.createElement("img");
-              img2.setAttribute("slot", "image-2");
-              img2.src = img.ico_filename;
-              img2.alt = `${img.prompt} - ICO`;
-              img2.loading = "lazy";
-
-              item.appendChild(img1);
-              item.appendChild(img2);
-
-              const caption = document.createElement("div");
-              caption.className = "caption";
-              caption.innerHTML = `Steps: ${img.steps} | Blend: ${img.blend} | Weight: ${img.weight} | icLight Multiplier: ${img.iclight_multiplier}`;
-              if (img.usemask) {
-                caption.innerHTML += ` | Alpha Mask: ${img.alphamask}`;
-              }
-
-              container.appendChild(item);
-              container.appendChild(caption);
-              grid.appendChild(container);
-            });
-
-            section.appendChild(grid);
-            gallery.appendChild(section);
-          });
+          // Render gallery
+          renderGallery(images);
         })
         .catch((err) => console.error("Failed to load images.json:", err));
 
+      function createFilterControls() {
+        const filterContainer = document.getElementById("filter-controls");
+
+        // Create filter groups for each parameter
+        Object.entries(filterOptions).forEach(([param, values]) => {
+          if (values.size === 0) return;
+
+          const filterGroup = document.createElement("div");
+          filterGroup.className = "filter-group";
+
+          const groupTitle = document.createElement("span");
+          groupTitle.className = "filter-group-title";
+          groupTitle.textContent = formatParamName(param);
+          filterGroup.appendChild(groupTitle);
+
+          const optionsContainer = document.createElement("div");
+          optionsContainer.className = "filter-options";
+
+          // Create checkbox for each unique value
+          Array.from(values)
+            .sort((a, b) => {
+              return parseFloat(a) - parseFloat(b); // Numerical sorting
+            })
+            .forEach((value) => {
+              const label = document.createElement("label");
+              label.className = "filter-checkbox-label";
+
+              const checkbox = document.createElement("input");
+              checkbox.type = "checkbox";
+              checkbox.value = value;
+              checkbox.dataset.param = param;
+              checkbox.checked = true; // Default to checked
+
+              label.appendChild(checkbox);
+              label.appendChild(document.createTextNode(value));
+              optionsContainer.appendChild(label);
+            });
+
+          filterGroup.appendChild(optionsContainer);
+          filterContainer.appendChild(filterGroup);
+        });
+      }
+
+      function formatParamName(param) {
+        return param
+          .split("_")
+          .map((word) => word.charAt(0).toUpperCase() + word.slice(1))
+          .join(" ");
+      }
+
+      function renderGallery(images) {
+        const gallery = document.getElementById("gallery");
+        gallery.innerHTML = ""; // Clear existing content
+        const groupedImages = {};
+
+        // Group images by prompt
+        images.forEach((img) => {
+          if (!img.ico_filename) return; // Skip if no _ico version exists
+
+          if (!groupedImages[img.prompt]) {
+            groupedImages[img.prompt] = [];
+          }
+          groupedImages[img.prompt].push(img);
+        });
+
+        // Create sections for each prompt
+        Object.entries(groupedImages).forEach(([prompt, imgList]) => {
+          const section = document.createElement("div");
+          section.className = "gallery-section";
+
+          const header = document.createElement("h2");
+          header.textContent = prompt;
+          section.appendChild(header);
+
+          const grid = document.createElement("div");
+          grid.className = "gallery";
+
+          imgList.forEach((img) => {
+            const container = document.createElement("div");
+            container.className = "item";
+            container.dataset.steps = img.steps;
+            container.dataset.blend = img.blend;
+            container.dataset.weight = img.weight;
+            container.dataset.iclight_multiplier = img.iclight_multiplier;
+            container.dataset.usemask = img.usemask || false;
+            if (img.alphamask) container.dataset.alphamask = img.alphamask;
+
+            const item = document.createElement("image-compare");
+
+            const img1 = document.createElement("img");
+            img1.setAttribute("slot", "image-1");
+            img1.src = img.filename;
+            img1.alt = img.prompt;
+            img1.loading = "lazy";
+
+            const img2 = document.createElement("img");
+            img2.setAttribute("slot", "image-2");
+            img2.src = img.ico_filename;
+            img2.alt = `${img.prompt} - ICO`;
+            img2.loading = "lazy";
+
+            item.appendChild(img1);
+            item.appendChild(img2);
+
+            const caption = document.createElement("div");
+            caption.className = "caption";
+            caption.innerHTML = `Steps: ${img.steps} | Blend: ${img.blend} | Weight: ${img.weight} | icLight Multiplier: ${img.iclight_multiplier}`;
+            if (img.usemask) {
+              caption.innerHTML += ` | Alpha Mask: ${img.alphamask}`;
+            }
+
+            container.appendChild(item);
+            container.appendChild(caption);
+            grid.appendChild(container);
+          });
+
+          section.appendChild(grid);
+          gallery.appendChild(section);
+        });
+      }
+
+      function applyFilters() {
+        // Get all selected filter values
+        const selectedFilters = {};
+
+        const checkboxes = document.querySelectorAll(
+          ".filter-checkbox-label input",
+        );
+        checkboxes.forEach((checkbox) => {
+          const param = checkbox.dataset.param;
+          const value = checkbox.value;
+
+          if (!selectedFilters[param]) {
+            selectedFilters[param] = new Set();
+          }
+
+          if (checkbox.checked) {
+            selectedFilters[param].add(value);
+          }
+        });
+
+        // Filter the items
+        const items = document.querySelectorAll(".item");
+        items.forEach((item) => {
+          let visible = true;
+
+          // Check if the item matches all selected filters
+          Object.entries(selectedFilters).forEach(([param, values]) => {
+            if (
+              values.size > 0 &&
+              item.dataset[param] &&
+              !values.has(item.dataset[param].toString())
+            ) {
+              visible = false;
+            }
+          });
+
+          // Show/hide based on filter match
+          if (visible) {
+            item.classList.remove("hidden");
+          } else {
+            item.classList.remove("enlarged"); // Remove enlarged if hidden
+            item.classList.add("hidden");
+          }
+        });
+
+        // Hide empty sections
+        const sections = document.querySelectorAll(".gallery-section");
+        sections.forEach((section) => {
+          const visibleItems = section.querySelectorAll(".item:not(.hidden)");
+          if (visibleItems.length === 0) {
+            section.style.display = "none";
+          } else {
+            section.style.display = "block";
+          }
+        });
+      }
+
+      function resetFilters() {
+        // Reset all checkboxes to checked
+        const checkboxes = document.querySelectorAll(
+          ".filter-checkbox-label input",
+        );
+        checkboxes.forEach((checkbox) => {
+          checkbox.checked = true;
+        });
+
+        // Show all items
+        const items = document.querySelectorAll(".item");
+        items.forEach((item) => {
+          item.classList.remove("hidden");
+        });
+
+        // Show all sections
+        const sections = document.querySelectorAll(".gallery-section");
+        sections.forEach((section) => {
+          section.style.display = "block";
+        });
+      }
+
       function changeEnlargedItem(direction) {
-        const items = Array.from(document.querySelectorAll(".item"));
+        const items = Array.from(
+          document.querySelectorAll(".item:not(.hidden)"),
+        );
         const current = items.findIndex((item) =>
           item.classList.contains("enlarged"),
         );
@@ -193,6 +467,7 @@
         items[next].scrollIntoView({ block: "center" });
       }
 
+      // Event Listeners
       document.getElementById("gallery").addEventListener("dblclick", (e) => {
         const item = e.target.closest(".item");
         if (item) item.classList.toggle("enlarged");
@@ -202,6 +477,13 @@
         if (e.key === "ArrowRight") changeEnlargedItem(1);
         if (e.key === "ArrowLeft") changeEnlargedItem(-1);
       });
+
+      document
+        .getElementById("apply-filters")
+        .addEventListener("click", applyFilters);
+      document
+        .getElementById("reset-filters")
+        .addEventListener("click", resetFilters);
     </script>
   </body>
 </html>
