@@ -93,7 +93,7 @@ def main():
     print(f"Processed {len(result)} images with {len(ico_images)} ico variants")
 
     # Save results to JSON
-    with open("processed_sweep_results.json", "w") as f:
+    with open("images.json", "w") as f:
         json.dump(result, f, indent=2)
 
     # Print some sample entries to verify
