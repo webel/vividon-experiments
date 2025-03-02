@@ -1,0 +1,17 @@
+{
+    "blend_percentage": 1.0,
+    "iclight_multiplier": 0.1,
+    "weight": 0.5,
+    "steps": 40,
+    "prompt": "Cloudy day diffused light",
+    "use_mask": false,
+    "alpha_mask": "spiral.png",
+    "segmentation_prompt": "subject",
+    "denoising": 0.1,
+    "negative_clip_prompt": "desaturated, sepia, white",
+    "relight_cfg": 2.4,
+    "remap_ranges": [
+        0.1,
+        0.9
+    ]
+}
